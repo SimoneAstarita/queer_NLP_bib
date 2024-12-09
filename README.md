@@ -13,6 +13,33 @@ WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and G
 
 Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased? V. Gautam, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. Transactions of ACL, 2024 (to appear).
 
+## LLMs
+Nozza, Debora, et al. "Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals." LTEDI 2022 (2022): 26.
+
+Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, and Rahul Gupta. 2023. “I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 1246–1266. https://doi.org/10.1145/3593013.3594078
+
+Felkner, Virginia, et al. "WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models." Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+
+Hossain, Tamanna, Sunipa Dev, and Sameer Singh. "MISGENDERED: Limits of Large Language Models in Understanding Pronouns." Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+
+​​Dhingra, Harnoor, et al. "Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models." arXiv e-prints (2023): arXiv-2307.
+
+Ovalle, Anaelia, et al. "The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models." arXiv preprint arXiv:2411.03700 (2024).
+
+Selma Bergstrand and Björn Gambäck. 2024. Detecting and Mitigating LGBTQIA+ Bias in Large Norwegian Language Models. In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 351–364, Bangkok, Thailand. Association for Computational Linguistics.
+
+Shir Lissak, Nitay Calderon, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, and Roi Reichart. 2024. The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2040–2079, Mexico City, Mexico. Association for Computational Linguistics.
+Marion Bartl and Susan Leavy. 2024. From ‘Showgirls’ to ‘Performers’: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs. In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 280–294, Bangkok, Thailand. Association for Computational Linguistics.
+
+Xie, Sean, Saeed Hassanpour, and Soroush Vosoughi. "Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models." Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+
+Knupleš, Urban, Agnieszka Falenska, and Filip Miletić. "Gender Identity in Pretrained Language Models: An Inclusive Approach to Data Creation and Probing." Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
+
+Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "We don’t talk about that: case studies on intersectional analysis of social bias in large language models." Workshop on Gender Bias in Natural Language Processing (GeBNLP), Bangkok, Thailand, 16th August, 2024.. Association for Computational Linguistics, 2024.
+
+Sheng, Emily, et al. "The Woman Worked as a Babysitter: On Biases in Language Generation."
+
+
 ## Media Analysis using NLP 
 
 Hicks, Amanda, et al. <a href="https://aclanthology.org/2016.gwc-1.19.pdf">"<u>An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey."</u></a> Proceedings of the 8th global wordnet conference (gwc). 2016.
@@ -49,6 +76,56 @@ Wu, Hsiao-Han, and Shu-Kai Hsieh. "Exploring Lavender Tongue from Social Media T
 Guanhua Zhang, Bing Bai, Junqi Zhang, Kun Bai, Conghui Zhu, and Tiejun Zhao. 2020. Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4134–4145, Online. Association for Computational Linguistics.
 
 Waldis, Andreas, et al. "The Lou Dataset-Exploring the Impact of Gender-Fair Language in German Text Classification." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
+
+## Text to Image
+
+Ungless, Eddie, Björn Ross, and Anne Lauscher. "Stereotypes and Smut: The (Mis) representation of Non-cisgender Identities by Text-to-Image Models." 61st Annual Meeting of the Association for Computational Linguistics. Association for Computational Linguistics (ACL), 2023.
+
+## Toxicity and Hate Speech
+
+Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. "Reducing Unintended Identity Bias in Russian Hate Speech Detection." Proceedings of the Fourth Workshop on Online Abuse and Harms. 2020.
+
+Díaz, Mark, et al. "Accounting for offensive speech as a practice of resistance." Proceedings of the sixth workshop on online abuse and harms (woah). 2022.
+
+Elsafoury, Fatma, et al. "SOS: Systematic Offensive Stereotyping Bias in Word Embeddings." Proceedings of the 29th International Conference on Computational Linguistics. 2022.
+
+Elsafoury, Fatma, Steven R. Wilson, and Naeem Ramzan. "A comparative study on word embeddings and social NLP tasks." Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media. 2022.
+
+Sahoo, Nihar, Himanshu Gupta, and Pushpak Bhattacharyya. "Detecting Unintended Social Bias in Toxic Language Datasets." Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL). 2022.
+
+Lu, Christina, and David Jurgens. "The subtle language of exclusion: Identifying the Toxic Speech of Trans-exclusionary Radical Feminists." Proceedings of the sixth workshop on online abuse and harms (WOAH). 2022.
+
+Mun, Jimin, et al. "Beyond denouncing hate: Strategies for countering implied biases and stereotypes in language." Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
+
+Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 202–214, Toronto, Canada. Association for Computational Linguistics.
+
+Locatelli, Davide, Greta Damo, and Debora Nozza. "A cross-lingual study of homotransphobia on twitter." Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP). 2023.
+
+Ahani, Z., et al. "Zavira@ DravidianLangTech 2024: Telugu hate speech detection using LSTM." Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages. 2024.
+
+Wiegand, Michael, and Josef Ruppenhofer. "Oddballs and Misfits: Detecting Implicit Abuse in Which Identity Groups are Depicted as Deviating from the Norm." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
+
+Dacon, Jamell, et al. "Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals." arXiv e-prints (2022): arXiv-2207.
+
+### Shared Task LT-EDI-ACL22
+
+Swaminathan, Krithika, et al. "Ssncse_nlp@ lt-edi-acl2022: Homophobia/transphobia detection in multiple languages using Svm classifiers and Bert-based Transformers." Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion. 2022
+
+​​Singh, Muskaan, and Petr Motlicek. "IDIAP Submission@ LT-EDI-ACL2022: Homophobia/Transphobia Detection in social media comments." Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion. 2022.
+
+Muti, Arianna, et al. "LeaningTower@ LT-EDI-ACL2022: when hope and hate collide." Proceedings of the second workshop on language technology for equality, diversity and inclusion. 2022.
+
+### Shared Task LT-EDI-ACL23
+Chakravarthi, Bharathi Raja, et al. "Overview of Second Shared Task on Homophobia and Transphobia Detection in Social Media Comments." Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion. 2023.
+
+Asha Hegde, Kavya G, Sharal Coelho, and Hosahalli Lakshmaiah Shashirekha. 2023. MUCS@LT-EDI2023: Homophobic/Transphobic Content Detection in Social Media Text using mBERT. In Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion, pages 287–294, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
+
+### Shared Task LT-EDI-ACL24
+
+Sonali Kulal, Nethravathi Gidnakanala, Raksha G, Kavya G, Asha Hegde, and H Shashirekha. 2024. MUCS@LT-EDI-2024: Learning Approaches to Empower Homophobic/Transphobic Comment Identification. In Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion, pages 288–293, St. Julian's, Malta. Association for Computational Linguistics.
+
+Yadav, Sargam, Abhishek Kaushik, and Kevin McDaid. "dkit@ LT-EDI-2024: Detecting Homophobia and Transphobia in English Social Media Comments." Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion. 2024.
+
 
 ## Translation
 
