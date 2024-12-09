@@ -3,7 +3,7 @@ This repository collects papers that sit at the intersection between the queer c
 
 This repository does not contain:
 - papers from outside of NLP (e.g. linguistics, sociology, gender studies, ...)
-- papers that don't explicityl mention the queer community or subsets of the queer community
+- papers that don't explicitly mention the queer community or subsets of the queer community
 
 ## Coreference Resolution
 
@@ -13,7 +13,38 @@ WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and G
 
 Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased? V. Gautam, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. Transactions of ACL, 2024 (to appear).
 
+## Data Collection
+
+Hicks, Amanda, et al. "An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey." Proceedings of the 8th global wordnet conference (gwc). 2016.
+
+Jesse Dodge, Maarten Sap, Ana Marasović, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner. 2021. Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+
+## Evaluation, Benchmarks
+
+Barikeri, Soumya, et al. "RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models." Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021.
+
+Juan Vásquez, Gemma Bel-Enguix, Scott Thomas Andersen, and Sergio-Luis Ojeda-Trueba. 2022. HeteroCorpus: A Corpus for Heteronormative Language Detection. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 225–234, Seattle, Washington. Association for Computational Linguistics.
+
+Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 202–214, Toronto, Canada. Association for Computational Linguistics.
+
+Dennler, Nathan, et al. "Bound by the Bounty: Collaboratively Shaping Evaluation Processes for Queer AI Harms." Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society. 2023.
+
+Bunzeck, Bastian, and Sina Zarrieß. "The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns." Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
+
+Piergentili, Andrea, et al. "Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus."
+
+## Gender Bias including nonbinary genders
+
+Rudinger, Rachel, et al. "Gender Bias in Coreference Resolution." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018
+
+Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "Semi-supervised topic modeling for gender bias discovery in English and Swedish." GeBNLP2020, COLING'2020–The 28th International Conference on Computational Linguistics, December 8-13, 2020, Online. Association for Computational Linguistics, 2020.
+
+Hansson, Saga, et al. "The Swedish Winogender Dataset." Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). 2021.
+
+Havens, Lucy, et al. "Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text." 4th Workshop on Gender Bias in Natural Language Processing at NAACL. ACL Anthology, 2022.
+
 ## LLMs
+
 Nozza, Debora, et al. "Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals." LTEDI 2022 (2022): 26.
 
 Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, and Rahul Gupta. 2023. “I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 1246–1266. https://doi.org/10.1145/3593013.3594078
@@ -146,6 +177,38 @@ Lardelli, Manuel, Giuseppe Attanasio, and Anne Lauscher. "Building Bridges: A Da
 Piergentili, Andrea, et al. "Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models." arXiv preprint arXiv:2405.08477 (2024).
 
 Stewart, Ian, and Rada Mihalcea. "Whose wife is it anyway? Assessing bias against same-gender relationships in machine translation." arXiv preprint arXiv:2401.04972 (2024).
+
+## Other
+
+### Position Papers
+
+Larson, Brian N. "Gender as a Variable in Natural-Language Processing: Ethical Considerations." EACL 2017 (2017): 1.
+
+Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "Theories of “gender” in nlp bias research." Proceedings of the 2022 ACM conference on fairness, accountability, and transparency. 2022.
+
+Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness A. Ovalle, A. Subramonian, V. Gautam, G. Gee, and K-W Chang. AIES, 2023.
+
+Razvan Amironesei and Mark Diaz. 2023. Relationality and Offensive Speech: A Research Agenda. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 85–95, Toronto, Canada. Association for Computational Linguistics.
+
+Understanding "Democratization" in NLP and ML Research {A. Subramonian, V. Gautam}, D. Klakow, Z. Talat. EMNLP, 2024.
+
+Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP V. Gautam, A. Subramonian, A. Lauscher, O. Keyes. Workshop on Gender Bias in Natural Language Processing, 2024.
+
+McAra-Hunter, Dawn. "How AI hype impacts the LGBTQ+ community." AI and Ethics (2024): 1-20.
+
+Dev, Sunipa, et al. "Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies."
+
+### Unsure what topic 
+Ovalle, Anaelia, et al. "Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies." Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+
+Dev, Sunipa, et al. "Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021.
+
+Krithika Ramesh, Sumeet Kumar, and Ashiqur Khudabukhsh. 2022. Revisiting Queer Minorities in Lexicons. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 245–251, Seattle, Washington (Hybrid). Association for Computational Linguistics.
+
+Veloso, Leonor, Luísa Coheur, and Rui Ribeiro. "A rewriting approach for gender inclusivity in Portuguese." Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
+
+Ljubešić, Nikola, et al. "The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene." Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media. 2020.
+
 
 
 
