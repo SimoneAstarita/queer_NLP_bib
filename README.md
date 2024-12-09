@@ -5,6 +5,8 @@ This repository does not contain:
 - papers from outside of NLP (e.g. linguistics, sociology, gender studies, ...)
 - papers that don't explicitly mention the queer community or subsets of the queer community
 
+If you want a paper to be added to this repository, you can make a pull request or submit it via <a href="https://docs.google.com/forms/d/e/1FAIpQLScpZxc6V5OgS77hy08qt3iuA1vOdqkvCuQ74xRSGJ6Hjs7zAw/viewform?usp=header"><u>this google form</u></a> .
+
 ## Table of Contents
 - [Coreference Resolution](#coreference-resolution)
 - [Data Collection](#data-collection)
