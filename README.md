@@ -46,13 +46,14 @@ Barikeri, Soumya, et al. <a href="https://www.edit.fis.uni-hamburg.de/ws/files/3
 
 Vásquez, Juan, et al. <a href="https://aclanthology.org/2022.gebnlp-1.23.pdf"><u>"Heterocorpus: A corpus for heteronormative language detection."</u></a> Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP). 2022.
 
-Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 202–214, Toronto, Canada. Association for Computational Linguistics.
+Vásquez, Juan, et al. <a href="https://aclanthology.org/2023.woah-1.20.pdf"><u>"Homo-mex: A mexican spanish annotated corpus for lgbt+ phobia detection on twitter."</u></a> The 7th Workshop on Online Abuse and Harms (WOAH). 2023
 
-Dennler, Nathan, et al. "Bound by the Bounty: Collaboratively Shaping Evaluation Processes for Queer AI Harms." Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society. 2023.
+Dennler, Nathan, et al. <a href="https://dl.acm.org/doi/pdf/10.1145/3600211.3604682?casa_token=Ur4BPZa80YcAAAAA:TF4epkxXo7-Ey_-LyDPsCPQGoZ9HF6N19kFU9jXtoMs3CPH3x0zPN7IYITtKzOwyKnZIE-5FRbFJzg"><u>"Bound by the Bounty: Collaboratively Shaping Evaluation Processes for Queer AI Harms."</u></a> Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society. 2023.
 
-Bunzeck, Bastian, and Sina Zarrieß. "The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns." Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
+Piergentili, Andrea, et al. <a href="https://aclanthology.org/2023.emnlp-main.873.pdf"><u>"Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus."</u></a> Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. 2023
 
-Piergentili, Andrea, et al. "Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus."
+Bunzeck, Bastian, and Sina Zarrieß. <a href="https://aclanthology.org/2024.genbench-1.3.pdf"><u>"The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns."</u></a> Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
+
 
 ## Gender Bias Including Nonbinary Genders
 
