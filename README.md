@@ -28,23 +28,23 @@ If you want a paper to be added to this repository, you can make a pull request 
 
 ## Coreference Resolution
 
-Ankith Uppunda, Susan Cochran, Jacob Foster, Alina Arseniev-Koehler, Vickie Mays, and Kai-Wei Chang. 2021. Adapting Coreference Resolution for Processing Violent Death Narratives. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4553–4559, Online. Association for Computational Linguistics.
+Uppunda, Ankith, et al. <a href="https://aclanthology.org/2021.naacl-main.361/"><u>"Adapting Coreference Resolution for Processing Violent Death Narratives."</u></a> Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021.
 
-WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case V. Gautam, J. Steuer, E. Bingert, R. Johns, A. Lauscher, D. Klakow. Workshop on Computational Models of Reference, Anaphora and Coreference, 2024.
+Gautam, Vagrant, et al. <a href="https://aclanthology.org/2024.crac-1.6.pdf"><u>"WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case."</u></a> Proceedings of The Seventh Workshop on Computational Models of Reference, Anaphora and Coreference. 2024.
 
-Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased? V. Gautam, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. Transactions of ACL, 2024 (to appear).
+Gautam, Vagrant, et al. <a href="https://arxiv.org/pdf/2404.03134"><u>"Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?."</u></a> arXiv preprint arXiv:2404.03134 (2024).
 
 ## Data Collection
 
-Hicks, Amanda, et al. "An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey." Proceedings of the 8th global wordnet conference (gwc). 2016.
+Hicks, Amanda, et al. <a href="https://aclanthology.org/2016.gwc-1.19.pdf"><u>"An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey."</u></a> Proceedings of the 8th global wordnet conference (gwc). 2016.
 
-Jesse Dodge, Maarten Sap, Ana Marasović, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner. 2021. Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+Dodge, Jesse, et al. <a href="http://maartensap.com/pdfs/dodge2021documentingC4.pdf"><u>"Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus."</u></a> Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2021.
 
 ## Evaluation, Benchmarks
 
-Barikeri, Soumya, et al. "RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models." Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021.
+Barikeri, Soumya, et al. <a href="https://www.edit.fis.uni-hamburg.de/ws/files/30919042/2106.03521v1.pdf"><u>"RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models."</u></a> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021.
 
-Juan Vásquez, Gemma Bel-Enguix, Scott Thomas Andersen, and Sergio-Luis Ojeda-Trueba. 2022. HeteroCorpus: A Corpus for Heteronormative Language Detection. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 225–234, Seattle, Washington. Association for Computational Linguistics.
+Vásquez, Juan, et al. <a href="https://aclanthology.org/2022.gebnlp-1.23.pdf"><u>"Heterocorpus: A corpus for heteronormative language detection."</u></a> Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP). 2022.
 
 Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 202–214, Toronto, Canada. Association for Computational Linguistics.
 
