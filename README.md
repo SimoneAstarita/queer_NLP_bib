@@ -5,6 +5,25 @@ This repository does not contain:
 - papers from outside of NLP (e.g. linguistics, sociology, gender studies, ...)
 - papers that don't explicitly mention the queer community or subsets of the queer community
 
+## Table of Contents
+- [Coreference Resolution](#coreference-resolution)
+- [Data Collection](#data-collection)
+- [Evaluation, Benchmarks](#evaluation-benchmarks)
+- [Gender Bias Including Nonbinary Genders](#gender-bias-including-nonbinary-genders)
+- [LLMs](#llms)
+- [Media Analysis using NLP](#media-analysis-using-nlp)
+- [POS Tagging](#pos-tagging)
+- [Question Answering](#question-answering)
+- [Sentiment Analysis](#sentiment-analysis)
+- [Text Classification](#text-classification)
+- [Text to Image](#text-to-image)
+- [Toxicity and Hate Speech](#toxicity-and-hate-speech)
+- [Translation](#translation)
+- [Other](#other)
+-[Position Papers](#position-papers)
+-[Unsure what topic](#unsure-what-topic)
+
+
 ## Coreference Resolution
 
 Ankith Uppunda, Susan Cochran, Jacob Foster, Alina Arseniev-Koehler, Vickie Mays, and Kai-Wei Chang. 2021. Adapting Coreference Resolution for Processing Violent Death Narratives. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4553–4559, Online. Association for Computational Linguistics.
@@ -33,7 +52,7 @@ Bunzeck, Bastian, and Sina Zarrieß. "The SlayQA benchmark of social reasoning: 
 
 Piergentili, Andrea, et al. "Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus."
 
-## Gender Bias including nonbinary genders
+## Gender Bias Including Nonbinary Genders
 
 Rudinger, Rachel, et al. "Gender Bias in Coreference Resolution." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018
 
