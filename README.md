@@ -52,6 +52,8 @@ Dennler, Nathan, et al. <a href="https://dl.acm.org/doi/pdf/10.1145/3600211.3604
 
 Piergentili, Andrea, et al. <a href="https://aclanthology.org/2023.emnlp-main.873.pdf"><u>"Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus."</u></a> Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. 2023
 
+Felkner, Virginia, et al. <a href="https://aclanthology.org/2023.acl-long.507/"><u>"WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models."</u></a> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+
 Bunzeck, Bastian, and Sina Zarrieß. <a href="https://aclanthology.org/2024.genbench-1.3.pdf"><u>"The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns."</u></a> Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
 
 
@@ -67,17 +69,17 @@ Havens, Lucy, et al. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>"Unc
 
 ## LLMs
 
-Nozza, Debora, et al. "Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals." LTEDI 2022 (2022): 26.
+Nozza, Debora, et al. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>"Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals."</u></a> LTEDI 2022 (2022): 26.
 
-Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, and Rahul Gupta. 2023. “I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 1246–1266. https://doi.org/10.1145/3593013.3594078
+Ovalle, Anaelia et al. <a href="https://dl.acm.org/doi/10.1145/3593013.3594078"><u>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation.</u></a> In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). 
 
-Felkner, Virginia, et al. "WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models." Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+Felkner, Virginia, et al. <a href="https://aclanthology.org/2023.acl-long.507/"><u>"WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models."</u></a> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
 
-Hossain, Tamanna, Sunipa Dev, and Sameer Singh. "MISGENDERED: Limits of Large Language Models in Understanding Pronouns." Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+Hossain, Tamanna, et al. <a href="https://aclanthology.org/2023.acl-long.293/"><u>"MISGENDERED: Limits of Large Language Models in Understanding Pronouns."</u></a> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
 
-​​Dhingra, Harnoor, et al. "Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models." arXiv e-prints (2023): arXiv-2307.
+​​Dhingra, Harnoor, et al. <a href="https://arxiv.org/abs/2307.00101"><u>"Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models."</u>,</a> arXiv e-prints (2023): arXiv-2307.
 
-Ovalle, Anaelia, et al. "The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models." arXiv preprint arXiv:2411.03700 (2024).
+Ovalle, Anaelia, et al. <a href="https://arxiv.org/abs/2411.03700"><u>"The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models."</u></a> arXiv preprint arXiv:2411.03700 (2024).
 
 Selma Bergstrand and Björn Gambäck. 2024. Detecting and Mitigating LGBTQIA+ Bias in Large Norwegian Language Models. In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 351–364, Bangkok, Thailand. Association for Computational Linguistics.
 
