@@ -57,13 +57,13 @@ Bunzeck, Bastian, and Sina Zarrieß. <a href="https://aclanthology.org/2024.genb
 
 ## Gender Bias Including Nonbinary Genders
 
-Rudinger, Rachel, et al. "Gender Bias in Coreference Resolution." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018
+Rudinger, Rachel, et al. <a href="https://aclanthology.org/N18-2002/"><u>"Gender Bias in Coreference Resolution."</u></a> Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018
 
-Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "Semi-supervised topic modeling for gender bias discovery in English and Swedish." GeBNLP2020, COLING'2020–The 28th International Conference on Computational Linguistics, December 8-13, 2020, Online. Association for Computational Linguistics, 2020.
+Devinney, Hannah, et al. <a href="https://aclanthology.org/2020.gebnlp-1.8/"><u>"Semi-supervised topic modeling for gender bias discovery in English and Swedish."</u></a> GeBNLP2020, COLING'2020–The 28th International Conference on Computational Linguistics, December 8-13, 2020, Online. Association for Computational Linguistics, 2020.
 
-Hansson, Saga, et al. "The Swedish Winogender Dataset." Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). 2021.
+Hansson, Saga, et al. <a href="https://aclanthology.org/2021.nodalida-main.52/"><u>"The Swedish Winogender Dataset."</u></a> Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). 2021.
 
-Havens, Lucy, et al. "Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text." 4th Workshop on Gender Bias in Natural Language Processing at NAACL. ACL Anthology, 2022.
+Havens, Lucy, et al. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>"Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text."</u></a> 4th Workshop on Gender Bias in Natural Language Processing at NAACL. ACL Anthology, 2022.
 
 ## LLMs
 
