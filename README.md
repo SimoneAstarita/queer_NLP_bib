@@ -30,6 +30,8 @@ If you want a paper to be added to this repository, you can make a pull request 
 
 Uppunda, Ankith, et al. <a href="https://aclanthology.org/2021.naacl-main.361/"><u>"Adapting Coreference Resolution for Processing Violent Death Narratives."</u></a> Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021.
 
+Connor Baumler and Rachel Rudinger. <a href="https://aclanthology.org/2022.naacl-main.250/"><u>Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution.</u></a> In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 3426–3432, Seattle, United States. Association for Computational Linguistics.
+
 Gautam, Vagrant, et al. <a href="https://aclanthology.org/2024.crac-1.6.pdf"><u>"WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case."</u></a> Proceedings of The Seventh Workshop on Computational Models of Reference, Anaphora and Coreference. 2024.
 
 Gautam, Vagrant, et al. <a href="https://arxiv.org/pdf/2404.03134"><u>"Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?."</u></a> arXiv preprint arXiv:2404.03134 (2024).
