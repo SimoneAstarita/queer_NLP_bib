@@ -98,6 +98,7 @@ Knupleš, Urban et al. <a href="https://aclanthology.org/2024.findings-emnlp.680
 
 Devinney, Hannah, et al. <a href="https://aclanthology.org/2024.gebnlp-1.3/"><u>"We don’t talk about that: case studies on intersectional analysis of social bias in large language models."</u></a> Workshop on Gender Bias in Natural Language Processing (GeBNLP), Bangkok, Thailand, 16th August, 2024. Association for Computational Linguistics, 2024.
 
+Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.12399"><u> "QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities."</u></a> arXiv preprint arXiv:2406.12399 (2024).
 
 ## Media Analysis using NLP 
 
