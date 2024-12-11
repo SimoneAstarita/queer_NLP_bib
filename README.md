@@ -58,6 +58,8 @@ Felkner, Virginia, et al. <a href="https://aclanthology.org/2023.acl-long.507/">
 
 Bunzeck, Bastian, and Sina Zarrieß. <a href="https://aclanthology.org/2024.genbench-1.3.pdf"><u>"The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns."</u></a> Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
 
+Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.12399"><u> "QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities."</u></a> arXiv preprint arXiv:2406.12399 (2024).
+
 
 ## Gender Bias Including Nonbinary Genders
 
