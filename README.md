@@ -70,6 +70,7 @@ Hansson, Saga, et al. <a href="https://aclanthology.org/2021.nodalida-main.52/">
 Havens, Lucy, et al. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>"Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text."</u></a> 4th Workshop on Gender Bias in Natural Language Processing at NAACL. ACL Anthology, 2022.
 
 ## LLMs
+Sheng, Emily, et al. <a href="https://aclanthology.org/D19-1339.pdf"><u>"The Woman Worked as a Babysitter: On Biases in Language Generation."</u></a> Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing
 
 Nozza, Debora, et al. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>"Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals."</u></a> LTEDI 2022 (2022): 26.
 
@@ -83,18 +84,17 @@ Hossain, Tamanna, et al. <a href="https://aclanthology.org/2023.acl-long.293/"><
 
 Ovalle, Anaelia, et al. <a href="https://arxiv.org/abs/2411.03700"><u>"The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models."</u></a> arXiv preprint arXiv:2411.03700 (2024).
 
-Selma Bergstrand and Björn Gambäck. 2024. Detecting and Mitigating LGBTQIA+ Bias in Large Norwegian Language Models. In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 351–364, Bangkok, Thailand. Association for Computational Linguistics.
+Selma Bergstrand and Björn Gambäck. <a href="https://aclanthology.org/2024.gebnlp-1.22/"><u>Detecting and Mitigating LGBTQIA+ Bias in Large Norwegian Language Models.</u></a> In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 351–364, Bangkok, Thailand. Association for Computational Linguistics. 2024
 
-Shir Lissak, Nitay Calderon, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, and Roi Reichart. 2024. The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 2040–2079, Mexico City, Mexico. Association for Computational Linguistics.
-Marion Bartl and Susan Leavy. 2024. From ‘Showgirls’ to ‘Performers’: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs. In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 280–294, Bangkok, Thailand. Association for Computational Linguistics.
+Lissak, Shir, et al. <a href="https://aclanthology.org/2024.naacl-long.113.pdf"><u>The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth.</u></a> In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2024.
 
-Xie, Sean, Saeed Hassanpour, and Soroush Vosoughi. "Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models." Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+Marion Bartl and Susan Leavy. <a href="https://aclanthology.org/2024.gebnlp-1.18/"><u>From ‘Showgirls’ to ‘Performers’: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs.</u></a> In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 280–294, Bangkok, Thailand. Association for Computational Linguistics. 2024. 
 
-Knupleš, Urban, Agnieszka Falenska, and Filip Miletić. "Gender Identity in Pretrained Language Models: An Inclusive Approach to Data Creation and Probing." Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
+Xie, Sean et al. <a href="https://aclanthology.org/2024.findings-naacl.278/"><u>"Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models."</u></a> Findings of the Association for Computational Linguistics: NAACL 2024. 
 
-Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "We don’t talk about that: case studies on intersectional analysis of social bias in large language models." Workshop on Gender Bias in Natural Language Processing (GeBNLP), Bangkok, Thailand, 16th August, 2024.. Association for Computational Linguistics, 2024.
+Knupleš, Urban et al. <a href="https://aclanthology.org/2024.findings-emnlp.680/"><u> "Gender Identity in Pretrained Language Models: An Inclusive Approach to Data Creation and Probing." </u></a> Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
 
-Sheng, Emily, et al. "The Woman Worked as a Babysitter: On Biases in Language Generation."
+Devinney, Hannah, et al. <a href="https://aclanthology.org/2024.gebnlp-1.3/"><u>"We don’t talk about that: case studies on intersectional analysis of social bias in large language models."</u></a> Workshop on Gender Bias in Natural Language Processing (GeBNLP), Bangkok, Thailand, 16th August, 2024. Association for Computational Linguistics, 2024.
 
 
 ## Media Analysis using NLP 
