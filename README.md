@@ -217,6 +217,8 @@ Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "Theories of “gende
 
 Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness A. Ovalle, A. Subramonian, V. Gautam, G. Gee, and K-W Chang. AIES, 2023.
 
+Zhou, Azure. <a href="https://ojs.stanford.edu/ojs/index.php/grace/article/download/3221/1620"><u> "Queer Bias in Natural Language Processing: Towards More Expansive Frameworks of Gender and Sexuality in NLP Bias Research."</u></a> 2023
+
 Razvan Amironesei and Mark Diaz. 2023. Relationality and Offensive Speech: A Research Agenda. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 85–95, Toronto, Canada. Association for Computational Linguistics.
 
 Understanding "Democratization" in NLP and ML Research {A. Subramonian, V. Gautam}, D. Klakow, Z. Talat. EMNLP, 2024.
