@@ -73,6 +73,8 @@ Hansson, Saga, et al. <a href="https://aclanthology.org/2021.nodalida-main.52/">
 
 Havens, Lucy, et al. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>"Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text."</u></a> 4th Workshop on Gender Bias in Natural Language Processing at NAACL. ACL Anthology, 2022.
 
+Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
+
 ## LLMs
 Sheng, Emily, et al. <a href="https://aclanthology.org/D19-1339.pdf"><u>"The Woman Worked as a Babysitter: On Biases in Language Generation."</u></a> Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing
 
