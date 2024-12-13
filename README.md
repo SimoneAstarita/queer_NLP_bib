@@ -21,7 +21,7 @@ If you want a paper to be added to this repository, you can make a pull request 
 - [Text to Image](#text-to-image)
 - [Toxicity and Hate Speech](#toxicity-and-hate-speech)
 - [Translation](#translation) 
--[Position Papers](#position-papers)
+- [Position Papers](#position-papers)
 
 ## Coreference Resolution
 
