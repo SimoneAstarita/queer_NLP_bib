@@ -21,16 +21,16 @@ If you want a paper to be added to this repository, you can make a pull request 
 - [Text to Image](#text-to-image)
 - [Toxicity and Hate Speech](#toxicity-and-hate-speech)
 - [Translation](#translation)
-- [Other](#other)
+  
 -[Position Papers](#position-papers)
--[Unsure what topic](#unsure-what-topic)
-
 
 ## Coreference Resolution
 
 Uppunda, Ankith, et al. <a href="https://aclanthology.org/2021.naacl-main.361/"><u>"Adapting Coreference Resolution for Processing Violent Death Narratives."</u></a> Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021.
 
 Connor Baumler and Rachel Rudinger. <a href="https://aclanthology.org/2022.naacl-main.250/"><u>Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution.</u></a> In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2022. 
+
+Veloso, Leonor, Luísa Coheur, and Rui Ribeiro. "A rewriting approach for gender inclusivity in Portuguese." Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
 
 Gautam, Vagrant, et al. <a href="https://aclanthology.org/2024.crac-1.6.pdf"><u>"WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case."</u></a> Proceedings of The Seventh Workshop on Computational Models of Reference, Anaphora and Coreference. 2024.
 
@@ -106,6 +106,8 @@ Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.123
 
 Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
 
+Ovalle, Anaelia, et al. "Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies." Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+
 ## Media Analysis using NLP 
 
 Hicks, Amanda, et al. <a href="https://aclanthology.org/2016.gwc-1.19.pdf">"<u>An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey."</u></a> Proceedings of the 8th global wordnet conference (gwc). 2016.
@@ -135,6 +137,8 @@ Bunzeck, Bastian, and Sina Zarrieß. "The SlayQA benchmark of social reasoning: 
 ## Sentiment Analysis
 Ungless, Eddie L., Bjorn Ross, and Vaishak Belle. "Potential Pitfalls With Automatic Sentiment Analysis: The Example of Queerphobic Bias." (2023).
 
+Ljubešić, Nikola, et al. "The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene." Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media. 2020.
+
 ## Text Classification
 
 Wu, Hsiao-Han, and Shu-Kai Hsieh. "Exploring Lavender Tongue from Social Media Texts [In Chinese]." Proceedings of the 29th Conference on Computational Linguistics and Speech Processing (ROCLING 2017). 2017.
@@ -160,6 +164,8 @@ Elsafoury, Fatma, Steven R. Wilson, and Naeem Ramzan. "A comparative study on wo
 Sahoo, Nihar, Himanshu Gupta, and Pushpak Bhattacharyya. "Detecting Unintended Social Bias in Toxic Language Datasets." Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL). 2022.
 
 Lu, Christina, and David Jurgens. "The subtle language of exclusion: Identifying the Toxic Speech of Trans-exclusionary Radical Feminists." Proceedings of the sixth workshop on online abuse and harms (WOAH). 2022.
+
+Krithika Ramesh, Sumeet Kumar, and Ashiqur Khudabukhsh. 2022. Revisiting Queer Minorities in Lexicons. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 245–251, Seattle, Washington (Hybrid). Association for Computational Linguistics.
 
 Mun, Jimin, et al. "Beyond denouncing hate: Strategies for countering implied biases and stereotypes in language." Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
 
@@ -213,9 +219,8 @@ Piergentili, Andrea, et al. "Enhancing Gender-Inclusive Machine Translation with
 
 Stewart, Ian, and Rada Mihalcea. "Whose wife is it anyway? Assessing bias against same-gender relationships in machine translation." arXiv preprint arXiv:2401.04972 (2024).
 
-## Other
 
-### Position Papers
+## Position Papers
 
 Larson, Brian N. "Gender as a Variable in Natural-Language Processing: Ethical Considerations." EACL 2017 (2017): 1.
 
@@ -235,16 +240,11 @@ McAra-Hunter, Dawn. "How AI hype impacts the LGBTQ+ community." AI and Ethics (2
 
 Dev, Sunipa, et al. "Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies."
 
-### Unsure what topic 
-Ovalle, Anaelia, et al. "Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies." Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+ 
 
-Dev, Sunipa, et al. "Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021.
 
-Krithika Ramesh, Sumeet Kumar, and Ashiqur Khudabukhsh. 2022. Revisiting Queer Minorities in Lexicons. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 245–251, Seattle, Washington (Hybrid). Association for Computational Linguistics.
 
-Veloso, Leonor, Luísa Coheur, and Rui Ribeiro. "A rewriting approach for gender inclusivity in Portuguese." Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
 
-Ljubešić, Nikola, et al. "The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene." Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media. 2020.
 
 
 
