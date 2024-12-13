@@ -47,6 +47,10 @@ Barikeri, Soumya, et al. <a href="https://www.edit.fis.uni-hamburg.de/ws/files/3
 
 Vásquez, Juan, et al. <a href="https://aclanthology.org/2022.gebnlp-1.23.pdf"><u>"Heterocorpus: A corpus for heteronormative language detection."</u></a> Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP). 2022.
 
+Parrish, Alicia et al. <a href="https://aclanthology.org/2022.findings-acl.165/"><u> BBQ: A hand-built bias benchmark for question answering.</u></a> In Findings of the Association for Computational Linguistics: ACL 2022, pages 2086–2105, Dublin, Ireland. Association for Computational Linguistics. 2022
+
+Tamkin, Alex, et al. <a href="https://arxiv.org/pdf/2312.03689"><u>"Evaluating and mitigating discrimination in language model decisions."</u></a> arXiv preprint arXiv:2312.03689 (2023).
+
 Vásquez, Juan, et al. <a href="https://aclanthology.org/2023.woah-1.20.pdf"><u>"Homo-mex: A mexican spanish annotated corpus for lgbt+ phobia detection on twitter."</u></a> The 7th Workshop on Online Abuse and Harms (WOAH). 2023
 
 Dennler, Nathan, et al. <a href="https://dl.acm.org/doi/pdf/10.1145/3600211.3604682?casa_token=Ur4BPZa80YcAAAAA:TF4epkxXo7-Ey_-LyDPsCPQGoZ9HF6N19kFU9jXtoMs3CPH3x0zPN7IYITtKzOwyKnZIE-5FRbFJzg"><u>"Bound by the Bounty: Collaboratively Shaping Evaluation Processes for Queer AI Harms."</u></a> Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society. 2023.
@@ -82,6 +86,8 @@ Nozza, Debora, et al. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>"Mea
 Ovalle, Anaelia et al. <a href="https://dl.acm.org/doi/10.1145/3593013.3594078"><u>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation.</u></a> In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). 
 
 Felkner, Virginia, et al. <a href="https://aclanthology.org/2023.acl-long.507/"><u>"WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models."</u></a> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+
+Tamkin, Alex, et al. <a href="https://arxiv.org/pdf/2312.03689"><u>"Evaluating and mitigating discrimination in language model decisions."</u></a> arXiv preprint arXiv:2312.03689 (2023).
 
 Hossain, Tamanna, et al. <a href="https://aclanthology.org/2023.acl-long.293/"><u>"MISGENDERED: Limits of Large Language Models in Understanding Pronouns."</u></a> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
 
