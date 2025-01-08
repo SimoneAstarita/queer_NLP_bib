@@ -133,16 +133,16 @@ Farhan Samir, Chan Young Park, Anjalie Field, Vered Shwartz, and Yulia Tsvetkov.
 
 ## POS Tagging
 
-Björklund, Henrik, and Hannah Devinney. "Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish." Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion. 2023.
+Björklund, Henrik, and Hannah Devinney. <a href="https://aclanthology.org/2023.ltedi-1.8.pdf"><u>"Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish."</u></a> Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion. 2023.
 
 ## Question Answering
 
-Bunzeck, Bastian, and Sina Zarrieß. "The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns." Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
+Bunzeck, Bastian, and Sina Zarrieß. <a href="https://aclanthology.org/2024.genbench-1.3.pdf"><u>"The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns."</u></a> Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
 
 ## Sentiment Analysis
-Ungless, Eddie L., Bjorn Ross, and Vaishak Belle. "Potential Pitfalls With Automatic Sentiment Analysis: The Example of Queerphobic Bias." (2023).
+Ungless, Eddie L., Bjorn Ross, and Vaishak Belle. <a href="https://journals.sagepub.com/doi/epub/10.1177/08944393231152946"><u>"Potential Pitfalls With Automatic Sentiment Analysis: The Example of Queerphobic Bias."</u></a> (2023).
 
-Ljubešić, Nikola, et al. "The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene." Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media. 2020.
+Ljubešić, Nikola, et al. <a href="https://aclanthology.org/2020.peoples-1.15.pdf"><u>"The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene."</u></a> Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media. 2020.
 
 ## Text Classification
 
