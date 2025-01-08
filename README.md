@@ -119,17 +119,17 @@ Hicks, Amanda, et al. <a href="https://aclanthology.org/2016.gwc-1.19.pdf">"<u>A
 
 Hung, Han-Tang, and Shu-Kai Hsieh. <a href="https://aclanthology.org/2020.paclic-1.47.pdf">"<u>Exploring Discourse on Same-sex Marriage in Taiwan: A Case Study of Near-Synonym of HOMOSEXUAL in Opposing Stances."</u></a>  Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation. 2020.
 
-Sky CH-Wang and David Jurgens. 2021. <a href="https://aclanthology.org/2021.emnlp-main.782/">"<u>Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender."</u></a> In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 9918–9938, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+Sky CH-Wang and David Jurgens. <a href="https://aclanthology.org/2021.emnlp-main.782/">"<u>Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender."</u></a> In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 9918–9938, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics. 2021.
 
-Lin, Yu-Hsuan. "Comparison on Heterosexual and Homosexual Woman’s Lonely Heart Ads in Taiwan: Taking AllTogether and Lesbian Board on PTT Web Forum as Examples." Proceedings of the Joint 3rd International Conference on Natural Language Processing for Digital Humanities and 8th International Workshop on Computational Linguistics for Uralic Languages. 2023.
+Lin, Yu-Hsuan. <a href="https://aclanthology.org/2023.nlp4dh-1.30.pdf"><u>"Comparison on Heterosexual and Homosexual Woman’s Lonely Heart Ads in Taiwan: Taking AllTogether and Lesbian Board on PTT Web Forum as Examples."</u></a> Proceedings of the Joint 3rd International Conference on Natural Language Processing for Digital Humanities and 8th International Workshop on Computational Linguistics for Uralic Languages. 2023.
 
-Locatelli, Davide, Greta Damo, and Debora Nozza. "A cross-lingual study of homotransphobia on twitter." Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP). 2023.
+Locatelli, Davide, Greta Damo, and Debora Nozza. <a href="https://aclanthology.org/2023.c3nlp-1.3.pdf"><u>"A cross-lingual study of homotransphobia on twitter."</u></a> Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP). 2023.
 
-Chakravarthi, Bharathi Raja, et al. "A Diachronic Analysis of Gender-Neutral Language on wikiHow" Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion. 2024.
+Chakravarthi, Bharathi Raja, et al. <a href="https://aclanthology.org/2024.ltedi-1.10.pdf"><u>"A Diachronic Analysis of Gender-Neutral Language on wikiHow"</u></a> Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion. 2024.
 
-Andersen, Scott, et al. "The Mexican Gayze: A Computational Analysis of the Attitudes towards the LGBT+ Population in Mexico on Social Media Across a Decade." Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024). 2024.
+Andersen, Scott, et al. <a href="https://aclanthology.org/2024.woah-1.14.pdf"><u>"The Mexican Gayze: A Computational Analysis of the Attitudes towards the LGBT+ Population in Mexico on Social Media Across a Decade."</u></a> Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024). 2024.
 
-Farhan Samir, Chan Young Park, Anjalie Field, Vered Shwartz, and Yulia Tsvetkov. 2024. Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 6747–6762, Miami, Florida, USA. Association for Computational Linguistics.
+Farhan Samir, Chan Young Park, Anjalie Field, Vered Shwartz, and Yulia Tsvetkov. <a href="https://aclanthology.org/2024.emnlp-main.384.pdf"><u> Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia.</u></a> In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 6747–6762, Miami, Florida, USA. Association for Computational Linguistics. 2024.
 
 ## POS Tagging
 
