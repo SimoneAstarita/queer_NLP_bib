@@ -119,7 +119,7 @@ Hicks, Amanda, et al. <a href="https://aclanthology.org/2016.gwc-1.19.pdf">"<u>A
 
 Hung, Han-Tang, and Shu-Kai Hsieh. <a href="https://aclanthology.org/2020.paclic-1.47.pdf">"<u>Exploring Discourse on Same-sex Marriage in Taiwan: A Case Study of Near-Synonym of HOMOSEXUAL in Opposing Stances."</u></a>  Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation. 2020.
 
-Sky CH-Wang and David Jurgens. 2021. Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 9918–9938, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+Sky CH-Wang and David Jurgens. 2021. <a href="https://aclanthology.org/2021.emnlp-main.782/">"<u>Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender."</u></a> In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 9918–9938, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
 
 Lin, Yu-Hsuan. "Comparison on Heterosexual and Homosexual Woman’s Lonely Heart Ads in Taiwan: Taking AllTogether and Lesbian Board on PTT Web Forum as Examples." Proceedings of the Joint 3rd International Conference on Natural Language Processing for Digital Humanities and 8th International Workshop on Computational Linguistics for Uralic Languages. 2023.
 
