@@ -76,6 +76,8 @@ Hansson, Saga, et al. <a href="https://aclanthology.org/2021.nodalida-main.52/">
 
 Havens, Lucy, et al. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>"Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text."</u></a> 4th Workshop on Gender Bias in Natural Language Processing at NAACL. ACL Anthology, 2022.
 
+Nasim Sobhani, Kinshuk Sengupta, and Sarah Jane Delany. <a href="https://aclanthology.org/2023.ranlp-1.119/"><u>" Measuring Gender Bias in Natural Language Processing: Incorporating Gender-Neutral Linguistic Forms for Non-Binary Gender Identities in Abusive Speech Detection."</u></a> In Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pages 1121–1131, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria. 2023. 
+
 Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
 
 ## LLMs
