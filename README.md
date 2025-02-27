@@ -187,6 +187,8 @@ Wiegand, Michael, and Josef Ruppenhofer. "Oddballs and Misfits: Detecting Implic
 
 Dacon, Jamell, et al. "Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals." arXiv e-prints (2022): arXiv-2207.
 
+Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2.pdf"><u> "A Dataset for the Detection of Dehumanizing Language."</u></a> LT-EDI 2024 (2024): 14.
+
 ### Shared Task LT-EDI-ACL22
 
 Swaminathan, Krithika, et al. "Ssncse_nlp@ lt-edi-acl2022: Homophobia/transphobia detection in multiple languages using Svm classifiers and Bert-based Transformers." Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion. 2022
