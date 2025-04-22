@@ -113,7 +113,7 @@ Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.123
 
 Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
 
-Ovalle, Anaelia, et al. "Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies." Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+Ovalle, Anaelia, et al. <a href="https://aclanthology.org/2024.findings-naacl.113/"><u>"Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies."</u></a> Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
 
 ## Media Analysis using NLP 
 
