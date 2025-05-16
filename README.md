@@ -24,6 +24,7 @@ If you want a paper to be added to this repository, you can make a pull request 
 - [Position Papers](#position-papers)
 
 ## Coreference Resolution
+Yang Trista Cao and Hal Daumé III. <a href="https://aclanthology.org/2020.acl-main.418.pdf"><u>Toward Gender-Inclusive Coreference Resolution.</u></a> In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4568–4595, Online. Association for Computational Linguistics. 2020.
 
 Uppunda, Ankith, et al. <a href="https://aclanthology.org/2021.naacl-main.361/"><u>"Adapting Coreference Resolution for Processing Violent Death Narratives."</u></a> Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021.
 
