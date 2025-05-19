@@ -66,6 +66,8 @@ Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.123
 
 Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
 
+Subramonian, Arjun et al.  <a href="https://arxiv.org/abs/2504.17075#"><u>Agree to Disagree? A Meta-Evaluation of LLM Misgendering</u></a> ArXiv 2025
+
 
 ## Gender Bias Including Nonbinary Genders
 
