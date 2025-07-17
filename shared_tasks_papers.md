@@ -52,7 +52,7 @@ Papers yet to be published.
 
 ### Shared Task HODI at EVALITA2025
 
-Irene Siragusa and Roberto Pirrone. 2023. CHILab at HODI: A minimalist approach. Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023). ![Italian](https://img.shields.io/badge/Featured-ffd700?style=flat-square)
+Irene Siragusa and Roberto Pirrone. 2023. CHILab at HODI: A minimalist approach. Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023). ![Italian](https://img.shields.io/badge/Italian-ffd700?style=flat-square)
 
 Rahul Ponnusamy, Prasanna Kumar Kumaresan, Kishore Kumar Ponnusamy, Charmathi Rajkumar, Ruba Priyadharshini, and Bharathi Raja Chakravarthi. 2023. Team_Tamil at HODI: Few-Shot Learning for Detecting Homotransphobia in Italian Language.  Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023).
 
