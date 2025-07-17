@@ -1,4 +1,6 @@
-## Shared Tasks Papers
+# Shared Tasks Papers
+
+## IberLEF
 
 ### Shared Task HOMO-MEX task at IberLEF2023
 
@@ -45,3 +47,15 @@ Daniel Ayala Niño, Manuel Montes y Gómez, and Ciro Velasco Cruz. 2024. ColPos 
 ### Shared Task HOMO-LAT25 task at IberLEF2025
 
 Papers yet to be published.
+
+## EVALITA
+
+### Shared Task HODI at EVALITA2025
+
+Irene Siragusa and Roberto Pirrone. 2023. CHILab at HODI: A minimalist approach. Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023). <span style="display:inline-block;background:#007bff;color:#fff;padding:3px 8px;border-radius:6px;font-size:12px;font-weight:bold;">Italian</span>
+
+Rahul Ponnusamy, Prasanna Kumar Kumaresan, Kishore Kumar Ponnusamy, Charmathi Rajkumar, Ruba Priyadharshini, and Bharathi Raja Chakravarthi. 2023. Team_Tamil at HODI: Few-Shot Learning for Detecting Homotransphobia in Italian Language.  Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023).
+
+Davide Locatelli and Lorenzo Locatelli. 2023. LCTs at HODI: Homotransphobic Speech Detection on Italian Tweets. Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023).
+
+Elisa Leonardelli and Camilla Casula. 2023. DH-FBK at HODI: Multi-Task Learning with Classifier Ensemble Agreement, Oversampling and Synthetic Data. Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023).
