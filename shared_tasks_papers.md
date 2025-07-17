@@ -4,30 +4,30 @@
 
 ### LTEDI 2022 – Homophobia/Transphobia Detection in Social Media Comments
 
-**Overview paper**
+`Overview paper`
 Bharathi Raja Chakravarthi, Ruba Priyadharshini, Thenmozhi Durairaj, John McCrae, Paul Buitelaar, Prasanna Kumaresan, and Rahul Ponnusamy. 2022. <a href="https://aclanthology.org/2022.ltedi-1.57/"><u>Overview of The Shared Task on Homophobia and Transphobia Detection in Social Media Comments.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 369–377, Dublin, Ireland. Association for Computational Linguistics.
 
-José García-Díaz, Camilo Caparros-Laiz, and Rafael Valencia-García. 2022. UMUTeam@LT-EDI-ACL2022: Detecting homophobic and transphobic comments in Tamil. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 140–144, Dublin, Ireland. Association for Computational Linguistics.
+José García-Díaz, Camilo Caparros-Laiz, and Rafael Valencia-García. 2022. <a href="https://aclanthology.org/2022.ltedi-1.16/"><u>UMUTeam@LT-EDI-ACL2022: Detecting homophobic and transphobic comments in Tamil.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 140–144, Dublin, Ireland. Association for Computational Linguistics.
 
-Vitthal Bhandari and Poonam Goyal. 2022. bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments. In Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 149–154, Dublin, Ireland. Association for Computational Linguistics.
+Vitthal Bhandari and Poonam Goyal. 2022. <a href="https://aclanthology.org/2022.ltedi-1.18/"><u>bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 149–154, Dublin, Ireland. Association for Computational Linguistics.
 
-Abulimiti Maimaitituoheti. 2022. ABLIMET @LT-EDI-ACL2022: A Roberta based Approach for Homophobia/Transphobia Detection in Social Media. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 155–160, Dublin, Ireland. Association for Computational Linguistics.
+Abulimiti Maimaitituoheti. 2022. <a href="https://aclanthology.org/2022.ltedi-1.19/"><u>ABLIMET @LT-EDI-ACL2022: A Roberta based Approach for Homophobia/Transphobia Detection in Social Media.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 155–160, Dublin, Ireland. Association for Computational Linguistics.
 
-Krithika Swaminathan, Bharathi B, Gayathri G L, and Hrishik Sampath. 2022. SSNCSE_NLP@LT-EDI-ACL2022: Homophobia/Transphobia Detection in Multiple Languages using SVM Classifiers and BERT-based Transformers. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 239–244, Dublin, Ireland. Association for Computational Linguistics.
+Krithika Swaminathan, Bharathi B, Gayathri G L, and Hrishik Sampath. 2022. <a href="https://aclanthology.org/2022.ltedi-1.34/"><u>SSNCSE_NLP@LT-EDI-ACL2022: Homophobia/Transphobia Detection in Multiple Languages using SVM Classifiers and BERT-based Transformers.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 239–244, Dublin, Ireland. Association for Computational Linguistics.
 
-Debora Nozza. 2022. Nozza@LT-EDI-ACL2022: Ensemble Modeling for Homophobia and Transphobia Detection. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 258–264, Dublin, Ireland. Association for Computational Linguistics.
+Debora Nozza. 2022. <a href="https://aclanthology.org/2022.ltedi-1.37/"><u>Nozza@LT-EDI-ACL2022: Ensemble Modeling for Homophobia and Transphobia Detection.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 258–264, Dublin, Ireland. Association for Computational Linguistics.
 
-Ishan Sanjeev Upadhyay, Kv Aditya Srivatsa, and Radhika Mamidi. 2022. Sammaan@LT-EDI-ACL2022: Ensembled Transformers Against Homophobia and Transphobia. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 270–275, Dublin, Ireland. Association for Computational Linguistics.
+Ishan Sanjeev Upadhyay, Kv Aditya Srivatsa, and Radhika Mamidi. 2022. <a href="https://aclanthology.org/2022.ltedi-1.39/"><u>Sammaan@LT-EDI-ACL2022: Ensembled Transformers Against Homophobia and Transphobia.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 270–275, Dublin, Ireland. Association for Computational Linguistics.
 
-Nsrin Ashraf, Mohamed Taha, Ahmed Abd Elfattah, and Hamada Nayel. 2022. NAYEL @LT-EDI-ACL2022: Homophobia/Transphobia Detection for Equality, Diversity, and Inclusion using SVM. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 287–290, Dublin, Ireland. Association for Computational Linguistics.
+Nsrin Ashraf, Mohamed Taha, Ahmed Abd Elfattah, and Hamada Nayel. 2022. <a href="https://aclanthology.org/2022.ltedi-1.42/"><u>NAYEL @LT-EDI-ACL2022: Homophobia/Transphobia Detection for Equality, Diversity, and Inclusion using SVM.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 287–290, Dublin, Ireland. Association for Computational Linguistics.
 
-Muskaan Singh and Petr Motlicek. 2022. IDIAP Submission@LT-EDI-ACL2022: Homophobia/Transphobia Detection in social media comments. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 356–361, Dublin, Ireland. Association for Computational Linguistics.
+Muskaan Singh and Petr Motlicek. 2022. <a href="https://aclanthology.org/2022.ltedi-1.55/"><u>IDIAP Submission@LT-EDI-ACL2022: Homophobia/Transphobia Detection in social media comments.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 356–361, Dublin, Ireland. Association for Computational Linguistics.
 
-Arianna Muti, Marta Marchiori Manerba, Katerina Korre, and Alberto Barrón-Cedeño. 2022. LeaningTower@LT-EDI-ACL2022: When Hope and Hate Collide. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 306–311, Dublin, Ireland. Association for Computational Linguistics.
+Arianna Muti, Marta Marchiori Manerba, Katerina Korre, and Alberto Barrón-Cedeño. 2022. <a href="https://aclanthology.org/2022.ltedi-1.46/"><u>LeaningTower@LT-EDI-ACL2022: When Hope and Hate Collide.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 306–311, Dublin, Ireland. Association for Computational Linguistics.
 
 ### LTEDI 2023 – Homophobia/Transphobia Detection in Social Media Comments
 
-**Overview paper**
+`Overview paper`
 Bharathi Raja Chakravarthi, Rahul Ponnusamy, Malliga S, Paul Buitelaar, Miguel Ángel García-Cumbreras, Salud María Jimenez-Zafra, Jose Antonio Garcia-Diaz, Rafael Valencia-Garcia, and Nitesh Jindal. 2023. Overview of Second Shared Task on Homophobia and Transphobia Detection in Social Media Comments. Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion, pages 38–46, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
 Kaustubh Lande, Rahul Ponnusamy, Prasanna Kumar Kumaresan, and Bharathi Raja Chakravarthi. 2023. KaustubhSharedTask@LT-EDI 2023: Homophobia-Transphobia Detection in Social Media Comments with NLPAUG-driven Data Augmentation. Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion, pages 71–77, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
