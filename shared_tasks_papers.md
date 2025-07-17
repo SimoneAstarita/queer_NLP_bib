@@ -5,7 +5,7 @@
 ### LTEDI 2022 – Homophobia/Transphobia Detection in Social Media Comments
 
 **Overview paper**
-Bharathi Raja Chakravarthi, Ruba Priyadharshini, Thenmozhi Durairaj, John McCrae, Paul Buitelaar, Prasanna Kumaresan, and Rahul Ponnusamy. 2022. Overview of The Shared Task on Homophobia and Transphobia Detection in Social Media Comments. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 369–377, Dublin, Ireland. Association for Computational Linguistics.
+Bharathi Raja Chakravarthi, Ruba Priyadharshini, Thenmozhi Durairaj, John McCrae, Paul Buitelaar, Prasanna Kumaresan, and Rahul Ponnusamy. 2022. <a href="https://aclanthology.org/2022.ltedi-1.57/"><u>Overview of The Shared Task on Homophobia and Transphobia Detection in Social Media Comments.</u></a> Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 369–377, Dublin, Ireland. Association for Computational Linguistics.
 
 José García-Díaz, Camilo Caparros-Laiz, and Rafael Valencia-García. 2022. UMUTeam@LT-EDI-ACL2022: Detecting homophobic and transphobic comments in Tamil. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 140–144, Dublin, Ireland. Association for Computational Linguistics.
 
