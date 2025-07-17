@@ -65,6 +65,10 @@ Sargam Yadav, Abhishek Kaushik, and Kevin McDaid. 2024. <a href="https://aclanth
 
 Sonali Kulal, Nethravathi Gidnakanala, Raksha G, Kavya G, Asha Hegde, and H Shashirekha. 2024. <a href="https://aclanthology.org/2024.ltedi-1.39/"><u>MUCS@LT-EDI-2024: Learning Approaches to Empower Homophobic/Transphobic Comment Identification.</u></a> Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion, pages 288–293, St. Julian's, Malta. Association for Computational Linguistics.
 
+### LTEDI 2025 – Homophobia/Transphobia Detection in Social Media Comments
+
+Papers yet to be published.
+
 ## IberLEF: The Iberian Language Evaluation Forum
 
 ### IberLEF2023 – HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
@@ -115,7 +119,7 @@ Luis Ramos, Carolina Palma-Preciado, Olga Kolesnikova, Magdalena Saldana-Perez, 
 
 Daniel Ayala Niño, Manuel Montes y Gómez, and Ciro Velasco Cruz. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper11.pdf"><u>ColPos at HOMO-MEX 2024: Weighted Naive Bayes for LGBTQ+Phobia Detection in Spanish Text.</u></a> Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024).
 
-### HOMO-LAT: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ population (IberLEF2025)
+### IberLEF2025 – HOMO-LAT: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ population
 
 Papers yet to be published.
 
