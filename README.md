@@ -192,26 +192,6 @@ Dacon, Jamell, et al. "Detecting Harmful Online Conversational Content towards L
 
 Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2.pdf"><u> "A Dataset for the Detection of Dehumanizing Language."</u></a> LT-EDI 2024 (2024): 14.
 
-### Shared Task LT-EDI-ACL22
-
-Swaminathan, Krithika, et al. "Ssncse_nlp@ lt-edi-acl2022: Homophobia/transphobia detection in multiple languages using Svm classifiers and Bert-based Transformers." Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion. 2022
-
-​​Singh, Muskaan, and Petr Motlicek. "IDIAP Submission@ LT-EDI-ACL2022: Homophobia/Transphobia Detection in social media comments." Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion. 2022.
-
-Muti, Arianna, et al. "LeaningTower@ LT-EDI-ACL2022: when hope and hate collide." Proceedings of the second workshop on language technology for equality, diversity and inclusion. 2022.
-
-### Shared Task LT-EDI-ACL23
-Chakravarthi, Bharathi Raja, et al. "Overview of Second Shared Task on Homophobia and Transphobia Detection in Social Media Comments." Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion. 2023.
-
-Asha Hegde, Kavya G, Sharal Coelho, and Hosahalli Lakshmaiah Shashirekha. 2023. MUCS@LT-EDI2023: Homophobic/Transphobic Content Detection in Social Media Text using mBERT. In Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion, pages 287–294, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
-
-### Shared Task LT-EDI-ACL24
-
-Sonali Kulal, Nethravathi Gidnakanala, Raksha G, Kavya G, Asha Hegde, and H Shashirekha. 2024. MUCS@LT-EDI-2024: Learning Approaches to Empower Homophobic/Transphobic Comment Identification. In Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion, pages 288–293, St. Julian's, Malta. Association for Computational Linguistics.
-
-Yadav, Sargam, Abhishek Kaushik, and Kevin McDaid. "dkit@ LT-EDI-2024: Detecting Homophobia and Transphobia in English Social Media Comments." Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion. 2024.
-
-
 ## Translation
 
 Paolucci, Angela Balducci, Manuel Lardelli, and Dagmar Gromann. "Gender-Fair Language in Translation: A Case Study." 1st Workshop on Gender-Inclusive Translation Technologies. 2023.
