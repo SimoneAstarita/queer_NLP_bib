@@ -23,6 +23,8 @@ Nsrin Ashraf, Mohamed Taha, Ahmed Abd Elfattah, and Hamada Nayel. 2022. NAYEL @L
 
 Muskaan Singh and Petr Motlicek. 2022. IDIAP Submission@LT-EDI-ACL2022: Homophobia/Transphobia Detection in social media comments. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 356–361, Dublin, Ireland. Association for Computational Linguistics.
 
+Arianna Muti, Marta Marchiori Manerba, Katerina Korre, and Alberto Barrón-Cedeño. 2022. LeaningTower@LT-EDI-ACL2022: When Hope and Hate Collide. Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion, pages 306–311, Dublin, Ireland. Association for Computational Linguistics.
+
 ### LTEDI 2023 – Homophobia/Transphobia Detection in Social Media Comments
 
 **Overview paper**
