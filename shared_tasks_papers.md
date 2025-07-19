@@ -101,7 +101,7 @@ Anibal Hernández-González, Julio Madera-Quintana, and Alfredo Simón-Cuevas. 2
 
 Devendra Deepak Kayande, Kishore Kumar Ponnusamy, Prasanna Kumar Kumaresan, Paul Buitelaar, and Bharathi Raja Chakravarthi. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper2.pdf"><u>VEL at HOMO-MEX 2024: Detecting LGBT+phobia in Mexican Spanish Social Media.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
-Daniel Yacob Espinosa, Grigori Sidorov, Eusebio Ricárdez Vázquez. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper3.pdf"><u>The LaboCIC at HOMO-MEX 2024: Using BERT to Classify Hate-LGTB Speech.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
+Daniel Yacob Espinosa, Grigori Sidorov, and Eusebio Ricárdez Vázquez. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper3.pdf"><u>The LaboCIC at HOMO-MEX 2024: Using BERT to Classify Hate-LGTB Speech.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
 Le Minh Quan, Bui Hong Son, and Dang Van Thin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper4.pdf"><u>CANTeam at HOMO-MEX 2024: Hate Speech Detection Towards the Mexican Spanish Speaking LGBT+ Population with Large Language Model.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
@@ -109,9 +109,9 @@ Omar Garcia Vazquez, Marco Cardoso-Moreno, José Alberto Torres-León, and Diana
 
 Javier Román-Pásaro, Alvaro Carrillo-Casado, Jacinto Mata-Vázquez, and Victoria Pachón-Álvarez. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper6.pdf"><u>I2C-UHU at HOMO-MEX 2024: Leveraging Large Language Models and Ensembling Transformers to Identify and Classify Hate Messages Towards the LGBTQ+ Community.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
-Roger David Gonzalez-Henao, Duvan Andres Marrugo-Tobon, Juan Carlos Martinez-Santos, Edwin Puertas. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper7.pdf"><u>VerbaNexAI Lab at HOMO-MEX 2024: Multiclass and Multilabel Detection of LGBTQ+ Phobic Content Using Transformers.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
+Roger David Gonzalez-Henao, Duvan Andres Marrugo-Tobon, Juan Carlos Martinez-Santos, and Edwin Puertas. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper7.pdf"><u>VerbaNexAI Lab at HOMO-MEX 2024: Multiclass and Multilabel Detection of LGBTQ+ Phobic Content Using Transformers.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
-Metztli Ramírez-González, Delia Irazú Hernández-Farías, Manuel Montes-y-Gómez. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper8.pdf"><u>LabTL-INAOE at HOMO-MEX 2024: Distance-based Representations for LGBT+ Phobia Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
+Metztli Ramírez-González, Delia Irazú Hernández-Farías, and Manuel Montes-y-Gómez. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper8.pdf"><u>LabTL-INAOE at HOMO-MEX 2024: Distance-based Representations for LGBT+ Phobia Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
 Sergio Damián, David Vázquez, Edgardo Felipe-Riverón, and Cornelio Yáñez-Márquez. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper9.pdf"><u>DSVS at HOMO-MEX24: Multi-Class and Multi-Label Hate Speech Detection using Transformer-Based Models.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_.
 
