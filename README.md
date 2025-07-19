@@ -67,6 +67,7 @@ Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.36702
 
 Subramonian, Arjun et al.  <a href="https://arxiv.org/abs/2504.17075#"><u>Agree to Disagree? A Meta-Evaluation of LLM Misgendering</u></a> ArXiv 2025
 
+Alessandra Teresa Cignarella, Manuela Sanguinetti, Simona Frenda, Andrea Marra, Cristina Bosco, and Valerio Basile. 2024. <a href="https://aclanthology.org/2024.lrec-main.1176/"><u>QUEEREOTYPES: A Multi-Source Italian Corpus of Stereotypes towards LGBTQIA+ Community Members.</u></a> In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_, pages 13429–13441, Torino, Italia. ELRA and ICCL.
 
 ## Gender Bias Including Nonbinary Genders
 
@@ -189,7 +190,9 @@ Wiegand, Michael, and Josef Ruppenhofer. "Oddballs and Misfits: Detecting Implic
 
 Dacon, Jamell, et al. "Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals." arXiv e-prints (2022): arXiv-2207.
 
-Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2.pdf"><u> "A Dataset for the Detection of Dehumanizing Language."</u></a> LT-EDI 2024 (2024): 14.
+Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2.pdf"><u>A Dataset for the Detection of Dehumanizing Language.</u></a> LT-EDI 2024 (2024): 14.
+
+Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 2024. <a href="https://aclanthology.org/2024.clicit-1.40/"><u>ReCLAIM Project: Exploring Italian Slurs Reappropriation with Large Language Models.</u></a> In _Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)_, pages 335–342, Pisa, Italy. CEUR Workshop Proceedings.
 
 ## Translation
 
@@ -207,14 +210,13 @@ Lardelli, Manuel, Anne Lauscher, and Giuseppe Attanasio. "GeFMT: Gender-Fair Lan
 
 Lardelli, Manuel, Giuseppe Attanasio, and Anne Lauscher. "Building Bridges: A Dataset for Evaluating Gender-Fair Machine Translation into German." arXiv e-prints (2024): arXiv-2406.
 
-Piergentili, Andrea, et al. "Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models." arXiv preprint arXiv:2405.08477 (2024).
+Piergentili, Andrea, et al. Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models. arXiv preprint arXiv:2405.08477 (2024).
 
 Stewart, Ian, and Rada Mihalcea. "Whose wife is it anyway? Assessing bias against same-gender relationships in machine translation." arXiv preprint arXiv:2401.04972 (2024).
 
-
 ## Position Papers
 
-Larson, Brian N. "Gender as a Variable in Natural-Language Processing: Ethical Considerations." EACL 2017 (2017): 1.
+Brian Larson. 2017. <a href="https://aclanthology.org/W17-1601/"><u>Gender as a Variable in Natural-Language Processing: Ethical Considerations.</u></a> In _Proceedings of the First ACL Workshop on Ethics in Natural Language Processing_, pages 1–11, Valencia, Spain. Association for Computational Linguistics.
 
 Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "Theories of “gender” in nlp bias research." Proceedings of the 2022 ACM conference on fairness, accountability, and transparency. 2022.
 
@@ -226,18 +228,9 @@ Razvan Amironesei and Mark Diaz. 2023. Relationality and Offensive Speech: A Res
 
 Understanding "Democratization" in NLP and ML Research {A. Subramonian, V. Gautam}, D. Klakow, Z. Talat. EMNLP, 2024.
 
-Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP V. Gautam, A. Subramonian, A. Lauscher, O. Keyes. Workshop on Gender Bias in Natural Language Processing, 2024.
+Vagrant Gautam, Arjun Subramonian, Anne Lauscher, and Os Keyes. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.20/"><u>Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 323–337, Bangkok, Thailand. Association for Computational Linguistics.
 
 McAra-Hunter, Dawn. "How AI hype impacts the LGBTQ+ community." AI and Ethics (2024): 1-20.
 
-Dev, Sunipa, et al. "Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies."
-
- 
-
-
-
-
-
-
-
+Sunipa Dev, Masoud Monajatipoor, Anaelia Ovalle, Arjun Subramonian, Jeff Phillips, and Kai-Wei Chang. 2021. <a href="https://aclanthology.org/2021.emnlp-main.150/"><u>Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 1968–1994, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
 
