@@ -137,33 +137,33 @@ Farhan Samir, Chan Young Park, Anjalie Field, Vered Shwartz, and Yulia Tsvetkov.
 
 ## POS Tagging
 
-Björklund, Henrik, and Hannah Devinney. <a href="https://aclanthology.org/2023.ltedi-1.8.pdf"><u>"Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish."</u></a> Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion. 2023.
+Henrik Björklund and Hannah Devinney. <a href="https://aclanthology.org/2023.ltedi-1.8"><u>Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish.</u></a> In _Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 54–61, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
 ## Question Answering
-Brixey, Jacqueline, et al. <a href="https://aclanthology.org/W17-5544.pdf"><u>"Shihbot: A facebook chatbot for sexual health information on hiv/aids."</u></a> Proceedings of the 18th annual SIGdial meeting on discourse and dialogue. 2017.
+Jacqueline Brixey, Rens Hoegen, Wei Lan, Joshua Rusow, Karan Singla, Xusen Yin, Ron Artstein, and Anton Leuski. 2017. <a href="https://aclanthology.org/W17-5544"><u>"Shihbot: A Facebook chatbot for Sexual Health Information on HIV/AIDS."</u></a> In _Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue_, pages 370–373, Saarbrücken, Germany. Association for Computational Linguistics.
 
-Bunzeck, Bastian, and Sina Zarrieß. <a href="https://aclanthology.org/2024.genbench-1.3.pdf"><u>"The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns."</u></a> Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP. 2024.
+Bastian Bunzeck and Sina Zarrieß. 2024. <a href="https://aclanthology.org/2024.genbench-1.3"><u>"The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns."</u></a> In _Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP_, pages 42–53, Miami, United States. Association for Computational Linguistics.
 
 ## Sentiment Analysis
-Ungless, Eddie L., Bjorn Ross, and Vaishak Belle. <a href="https://journals.sagepub.com/doi/epub/10.1177/08944393231152946"><u>"Potential Pitfalls With Automatic Sentiment Analysis: The Example of Queerphobic Bias."</u></a> (2023).
+Nikola Ljubešić, Ilia Markov, Darja Fišer, and Walter Daelemans. 2020. <a href="https://aclanthology.org/2020.peoples-1.15"><u>The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene.</u></a> In _Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media_, pages 153–157, Barcelona, Spain (Online). Association for Computational Linguistics.
 
-Ljubešić, Nikola, et al. <a href="https://aclanthology.org/2020.peoples-1.15.pdf"><u>"The LiLaH Emotion Lexicon of Croatian, Dutch and Slovene."</u></a> Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media. 2020.
+Eddie L. Ungless, Bjorn Ross, and Vaishak Belle. 2023. <a href="https://journals.sagepub.com/doi/epub/10.1177/08944393231152946"><u>Potential Pitfalls With Automatic Sentiment Analysis: The Example of Queerphobic Bias.</u></a> _Social Science Computer Review_, 41(6), pages 2211-2229.
 
 ## Text Classification
 
-Wu, Hsiao-Han, and Shu-Kai Hsieh. "Exploring Lavender Tongue from Social Media Texts [In Chinese]." Proceedings of the 29th Conference on Computational Linguistics and Speech Processing (ROCLING 2017). 2017.
+Hsiao-Han Wu and Shu-Kai Hsieh. 2017. <a href="https://aclanthology.org/O17-1007/"><u>Exploring Lavender Tongue from Social Media Texts\[In Chinese\].</u></a> In _Proceedings of the 29th Conference on Computational Linguistics and Speech Processing (ROCLING 2017)_, pages 68–80, Taipei, Taiwan. The Association for Computational Linguistics and Chinese Language Processing (ACLCLP).
 
-Guanhua Zhang, Bing Bai, Junqi Zhang, Kun Bai, Conghui Zhu, and Tiejun Zhao. 2020. Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4134–4145, Online. Association for Computational Linguistics.
+Guanhua Zhang, Bing Bai, Junqi Zhang, Kun Bai, Conghui Zhu, and Tiejun Zhao. 2020. <a href="https://aclanthology.org/2020.acl-main.380/"><u>Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting.</u></a> In _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics_, pages 4134–4145, Online. Association for Computational Linguistics.
 
-Waldis, Andreas, et al. "The Lou Dataset-Exploring the Impact of Gender-Fair Language in German Text Classification." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
+Andreas Waldis, Joel Birrer, Anne Lauscher, and Iryna Gurevych. 2024. <a href="https://aclanthology.org/2024.emnlp-main.592/"><u>The Lou Dataset-Exploring the Impact of Gender-Fair Language in German Text Classification.</u></a> In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, pages 10604–10624, Miami, United States. Association for Computational Linguistics.
 
 ## Text to Image
 
-Ungless, Eddie, Björn Ross, and Anne Lauscher. "Stereotypes and Smut: The (Mis) representation of Non-cisgender Identities by Text-to-Image Models." 61st Annual Meeting of the Association for Computational Linguistics. Association for Computational Linguistics (ACL), 2023.
+Eddie Ungless, Bjorn Ross, and Anne Lauscher. 2023. <a href="https://aclanthology.org/2023.findings-acl.502/"><u>Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models.</u></a> In _Findings of the Association for Computational Linguistics: ACL 2023_, pages 7919–7942, Toronto, Canada. Association for Computational Linguistics.
 
 ## Toxicity and Hate Speech
 
-Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. "Reducing Unintended Identity Bias in Russian Hate Speech Detection." Proceedings of the Fourth Workshop on Online Abuse and Harms. 2020.
+Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. <a href=""><u>Reducing Unintended Identity Bias in Russian Hate Speech Detection.</u></a> Proceedings of the Fourth Workshop on Online Abuse and Harms. 2020.
 
 Díaz, Mark, et al. "Accounting for offensive speech as a practice of resistance." Proceedings of the sixth workshop on online abuse and harms (woah). 2022.
 
