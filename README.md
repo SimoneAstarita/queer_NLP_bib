@@ -174,23 +174,23 @@ Fatma Elsafoury, Steven R. Wilson, and Naeem Ramzan. 2022. <a href="https://acla
 
 Sahoo, Nihar, Himanshu Gupta, and Pushpak Bhattacharyya. "Detecting Unintended Social Bias in Toxic Language Datasets." Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL). 2022.
 
-Lu, Christina, and David Jurgens. "The subtle language of exclusion: Identifying the Toxic Speech of Trans-exclusionary Radical Feminists." Proceedings of the sixth workshop on online abuse and harms (WOAH). 2022.
+Christina Lu and David Jurgens. 2022. <a href="https://aclanthology.org/2022.woah-1.8/"><u>The subtle language of exclusion: Identifying the Toxic Speech of Trans-exclusionary Radical Feminists.</u></a> In _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)_, pages 79–91, Seattle, Washington (Hybrid). Association for Computational Linguistics.
 
 Krithika Ramesh, Sumeet Kumar, and Ashiqur Khudabukhsh. 2022. Revisiting Queer Minorities in Lexicons. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 245–251, Seattle, Washington (Hybrid). Association for Computational Linguistics.
 
-Mun, Jimin, et al. "Beyond denouncing hate: Strategies for countering implied biases and stereotypes in language." Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
+Jimin Mun, Emily Allaway, Akhila Yerukola, Laura Vianna, Sarah-Jane Leslie, and Maarten Sap. 2023. <a href="https://aclanthology.org/2023.findings-emnlp.653/"><u>Beyond Denouncing Hate: Strategies for Countering Implied Biases and Stereotypes in Language.</u></a> In _Findings of the Association for Computational Linguistics: EMNLP 2023_, pages 9759–9777, Singapore. Association for Computational Linguistics.
 
-Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 202–214, Toronto, Canada. Association for Computational Linguistics.
-
-Locatelli, Davide, Greta Damo, and Debora Nozza. "A cross-lingual study of homotransphobia on twitter." Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP). 2023.
+Juan Vásquez, Scott Andersen, Gemma Bel-Enguix, Helena Gómez-Adorno, and Sergio-luis Ojeda-trueba. 2023. HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 202–214, Toronto, Canada. Association for Computational Linguistics.
 
 Ahani, Z., et al. "Zavira@ DravidianLangTech 2024: Telugu hate speech detection using LSTM." Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages. 2024.
 
 Wiegand, Michael, and Josef Ruppenhofer. "Oddballs and Misfits: Detecting Implicit Abuse in Which Identity Groups are Depicted as Deviating from the Norm." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
 
-Dacon, Jamell, et al. "Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals." arXiv e-prints (2022): arXiv-2207.
+Dacon, Jamell, et al. Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals. arXiv e-prints (2022): arXiv-2207.
 
-Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2.pdf"><u>A Dataset for the Detection of Dehumanizing Language.</u></a> LT-EDI 2024 (2024): 14.
+Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2"><u>A Dataset for the Detection of Dehumanizing Language.</u></a> LT-EDI 2024 (2024): 14.
+
+Rebecca Dorn, Lee Kezar, Fred Morstatter, and Kristina Lerman. 2024. <a href="https://dl.acm.org/doi/10.1145/3689904.3694704"><u>Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias.</u></a> In _Proceedings of the 4th ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)_, article 6, pages 1-12, San Luis Potosi, Mexico. Association for Computing Machinery.
 
 Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 2024. <a href="https://aclanthology.org/2024.clicit-1.40/"><u>ReCLAIM Project: Exploring Italian Slurs Reappropriation with Large Language Models.</u></a> In _Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)_, pages 335–342, Pisa, Italy. CEUR Workshop Proceedings.
 
@@ -198,11 +198,11 @@ Andrey O. Souza, Eduardo F. Nakamura, and Fabíola G. Nakamura. 2022. <a href="h
 
 Vinícius S. dos Santos, Felipe da R. Henriques, and Gustavo Guedes. 2022. <a href=""><u>O Discurso de Ódio Homofóbico no Twitter a partir da Análise de Dados.</u></a> In _Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BRASNAM)_, pages 109–120, Rio de Janeiro. Sociedade Brasileira de Computação (SBC).
 
-Mayk Brendon Almeida Antunes, Matheus de Freitas Issa and Raphael Magalhães Hoed. 2023. <a href="https://ojs.focopublicacoes.com.br/foco/article/view/853"><u>Técnicas de Machine Learning Aplicada a Mineração de Dados e Análise de Sentimentos para Predição de Homofobia no Twitter.</u></a> _Revista Foco_, 16(1): page e853, Curitiba.
+Mayk Brendon Almeida Antunes, Matheus de Freitas Issa and Raphael Magalhães Hoed. 2023. <a href="https://ojs.focopublicacoes.com.br/foco/article/view/853"><u>Técnicas de Machine Learning Aplicada a Mineração de Dados e Análise de Sentimentos para Predição de Homofobia no Twitter.</u></a> _Revista Foco_, 16(1):e853, Curitiba.
 
-Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_ 64, pages 51–79.
+Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_. 64:51–79.
 
-Daniel García-Baena, Miguel Á. García-Cumbreras, Sara M. Jiménez-Zafra, José A. García-Díaz, and Raúl Valencia-García. 2023. <a href="https://link.springer.com/article/10.1007/s10579-023-09638-3"><u>Hope Speech Detection in Spanish: The LGBT Case.</u></a> _Language Resources and Evaluation_ 57, pages 1487–1514, Online.
+Daniel García-Baena, Miguel Á. García-Cumbreras, Sara M. Jiménez-Zafra, José A. García-Díaz, and Raúl Valencia-García. 2023. <a href="https://link.springer.com/article/10.1007/s10579-023-09638-3"><u>Hope Speech Detection in Spanish: The LGBT Case.</u></a> _Language Resources and Evaluation_, 57:1487–1514.
 
 ## Translation
 
