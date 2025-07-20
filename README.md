@@ -164,13 +164,13 @@ Eddie Ungless, Bjorn Ross, and Anne Lauscher. 2023. <a href="https://aclantholog
 
 ## Toxicity and Hate Speech
 
-Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. <a href=""><u>Reducing Unintended Identity Bias in Russian Hate Speech Detection.</u></a> Proceedings of the Fourth Workshop on Online Abuse and Harms. 2020.
+Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. 2020. <a href="https://aclanthology.org/2020.alw-1.8/"><u>Reducing Unintended Identity Bias in Russian Hate Speech Detection.</u></a> In _Proceedings of the Fourth Workshop on Online Abuse and Harms_, pages 65–69, Online. Association for Computational Linguistics.
 
-Díaz, Mark, et al. "Accounting for offensive speech as a practice of resistance." Proceedings of the sixth workshop on online abuse and harms (woah). 2022.
+Mark Diaz, Razvan Amironesei, Laura Weidinger, and Iason Gabriel. 2022. <a href="https://aclanthology.org/2022.woah-1.18/"><u>Accounting for offensive speech as a practice of resistance.</u></a> In _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)_, pages 192–202, Seattle, Washington (Hybrid). Association for Computational Linguistics.
 
-Elsafoury, Fatma, et al. "SOS: Systematic Offensive Stereotyping Bias in Word Embeddings." Proceedings of the 29th International Conference on Computational Linguistics. 2022.
+Fatma Elsafoury, Steve R. Wilson, Stamos Katsigiannis, and Naeem Ramzan. 2022. <a href="https://aclanthology.org/2022.coling-1.108/"><u>SOS: Systematic Offensive Stereotyping Bias in Word Embeddings.</u></a> In _Proceedings of the 29th International Conference on Computational Linguistics_, pages 1263–1274, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
 
-Elsafoury, Fatma, Steven R. Wilson, and Naeem Ramzan. "A comparative study on word embeddings and social NLP tasks." Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media. 2022.
+Fatma Elsafoury, Steven R. Wilson, and Naeem Ramzan. 2022. <a href="https://aclanthology.org/2022.socialnlp-1.5/"><u>A Comparative Study on Word Embeddings and Social NLP Tasks.</u></a> In _Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media_, pages 55–64, Seattle, Washington, United States. Association for Computational Linguistics.
 
 Sahoo, Nihar, Himanshu Gupta, and Pushpak Bhattacharyya. "Detecting Unintended Social Bias in Toxic Language Datasets." Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL). 2022.
 
@@ -193,6 +193,16 @@ Dacon, Jamell, et al. "Detecting Harmful Online Conversational Content towards L
 Engelmann, Paul, Peter Brunsgaard Trolle, and Christian Hardmeier. <a href="https://aclanthology.org/2024.ltedi-1.2.pdf"><u>A Dataset for the Detection of Dehumanizing Language.</u></a> LT-EDI 2024 (2024): 14.
 
 Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 2024. <a href="https://aclanthology.org/2024.clicit-1.40/"><u>ReCLAIM Project: Exploring Italian Slurs Reappropriation with Large Language Models.</u></a> In _Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)_, pages 335–342, Pisa, Italy. CEUR Workshop Proceedings.
+
+Andrey O. Souza, Eduardo F. Nakamura, and Fabíola G. Nakamura. 2022. <a href="https://sol.sbc.org.br/index.php/bresci/article/view/20477"><u>Detecção de Discurso de Ódio: Homofobia.</u></a> In _Anais do XVI Brazilian e-Science Workshop_, pages 73–80, Niterói, Brazil. Sociedade Brasileira de Computação (SBC).
+
+Vinícius S. dos Santos, Felipe da R. Henriques, and Gustavo Guedes. 2022. <a href=""><u>O Discurso de Ódio Homofóbico no Twitter a partir da Análise de Dados.</u></a> In _Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BRASNAM)_, pages 109–120, Rio de Janeiro. Sociedade Brasileira de Computação (SBC).
+
+Mayk Brendon Almeida Antunes, Matheus de Freitas Issa and Raphael Magalhães Hoed. 2023. <a href="https://ojs.focopublicacoes.com.br/foco/article/view/853"><u>Técnicas de Machine Learning Aplicada a Mineração de Dados e Análise de Sentimentos para Predição de Homofobia no Twitter.</u></a> _Revista Foco_, 16(1): page e853, Curitiba.
+
+Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_ 64, pages 51–79.
+
+Daniel García-Baena, Miguel Á. García-Cumbreras, Sara M. Jiménez-Zafra, José A. García-Díaz, and Raúl Valencia-García. 2023. <a href="https://link.springer.com/article/10.1007/s10579-023-09638-3"><u>Hope Speech Detection in Spanish: The LGBT Case.</u></a> _Language Resources and Evaluation_ 57, pages 1487–1514, Online.
 
 ## Translation
 
