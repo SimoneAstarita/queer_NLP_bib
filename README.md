@@ -1,11 +1,11 @@
 # Queer NLP Paper Repository
-This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order. 
+This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order.
 
 This repository does not contain:
-- papers from outside of NLP (e.g. linguistics, sociology, gender studies, ...)
-- papers that don't explicitly mention the queer community or subsets of the queer community
+- papers from outside of NLP (e.g. linguistics, sociology, gender studies);
+- papers that don't explicitly mention the queer community or subsets of the queer community.
 
-If you want a paper to be added to this repository, you can make a pull request or submit it via <a href="https://docs.google.com/forms/d/e/1FAIpQLScpZxc6V5OgS77hy08qt3iuA1vOdqkvCuQ74xRSGJ6Hjs7zAw/viewform?usp=header"><u>this google form</u></a> .
+If you want a paper to be added to this repository, you can make a pull request or submit it via <a href="https://docs.google.com/forms/d/e/1FAIpQLScpZxc6V5OgS77hy08qt3iuA1vOdqkvCuQ74xRSGJ6Hjs7zAw/viewform?usp=header"><u>this google form</u></a>.
 
 ## Table of Contents
 - [Coreference Resolution](#coreference-resolution)
@@ -84,9 +84,9 @@ Nasim Sobhani, Kinshuk Sengupta, and Sarah Jane Delany. <a href="https://aclanth
 Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
 
 ## LLMs
-Sheng, Emily, et al. <a href="https://aclanthology.org/D19-1339.pdf"><u>"The Woman Worked as a Babysitter: On Biases in Language Generation."</u></a> Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing
+Sheng, Emily, et al. <a href="https://aclanthology.org/D19-1339"><u>The Woman Worked as a Babysitter: On Biases in Language Generation.</u></a> Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing
 
-Nozza, Debora, et al. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>"Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals."</u></a> LTEDI 2022 (2022): 26.
+Debora Nozza, Federico Bianchi, Anne Lauscher, and Dirk Hovy. 2022. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals.</u></a> In _Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 26–34, Dublin, Ireland. Association for Computational Linguistics.
 
 Ovalle, Anaelia et al. <a href="https://dl.acm.org/doi/10.1145/3593013.3594078"><u>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation.</u></a> In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). 
 
@@ -116,7 +116,7 @@ Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.123
 
 Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
 
-Ovalle, Anaelia, et al. <a href="https://aclanthology.org/2024.findings-naacl.113/"><u>"Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies."</u></a> Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+Ovalle, Anaelia, et al. <a href="https://aclanthology.org/2024.findings-naacl.113/"><u>Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies.</u></a> Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
 
 ## Media Analysis using NLP 
 
@@ -232,11 +232,9 @@ Devinney, Hannah, Jenny Björklund, and Henrik Björklund. "Theories of “gende
 
 Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness A. Ovalle, A. Subramonian, V. Gautam, G. Gee, and K-W Chang. AIES, 2023.
 
-Zhou, Azure. <a href="https://ojs.stanford.edu/ojs/index.php/grace/article/download/3221/1620"><u> "Queer Bias in Natural Language Processing: Towards More Expansive Frameworks of Gender and Sexuality in NLP Bias Research."</u></a> 2023
+Zhou, Azure. <a href="https://ojs.stanford.edu/ojs/index.php/grace/article/download/3221/1620"><u>Queer Bias in Natural Language Processing: Towards More Expansive Frameworks of Gender and Sexuality in NLP Bias Research.</u></a> 2023
 
 Razvan Amironesei and Mark Diaz. 2023. Relationality and Offensive Speech: A Research Agenda. In The 7th Workshop on Online Abuse and Harms (WOAH), pages 85–95, Toronto, Canada. Association for Computational Linguistics.
-
-Understanding "Democratization" in NLP and ML Research {A. Subramonian, V. Gautam}, D. Klakow, Z. Talat. EMNLP, 2024.
 
 Vagrant Gautam, Arjun Subramonian, Anne Lauscher, and Os Keyes. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.20/"><u>Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 323–337, Bangkok, Thailand. Association for Computational Linguistics.
 
