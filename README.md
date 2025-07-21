@@ -1,5 +1,5 @@
 # Queer NLP Paper Repository
-This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order. At the end, position papers are added, as well as papers revolving around the solution of a particular shared task.
+This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order. At the end, there are position papers as well as papers revolving around the solution of a particular shared task. The citation style used is akin to the one used by the Association for Computational Linguistics (ACL). The [bib file](refs.bib) contains unique references for all the papers in this repository.
 
 This repository does not contain:
 - papers from outside of NLP (e.g. linguistics, sociology, gender studies);
