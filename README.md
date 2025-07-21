@@ -204,7 +204,7 @@ Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 20
 
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
-Shared tasks papers: [LTEDI22](#ltedi2022-homophobia/transphobia-detection-in-social-media-comments), [LTEDI23](#ltedi2023-homophobia/transphobia-detection-in-social-media-comments), [LTEDI24](#ltedi2024-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2025](#ltedi2025-homophobia/transphobia-detection-in-social-media-comments), [HOMO-MEX23](#iberlef2023-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOMO-MEX24](#iberlef2024-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HODI23](#evalita2023-hodi-homotransphobia-detection-in-italian)
+Shared tasks papers: [LTEDI22](#ltedi2022-homophobia/transphobia-detection-in-social-media-comments), [LTEDI23](#ltedi2023-homophobia/transphobia-detection-in-social-media-comments), [LTEDI24](#ltedi2024-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2025](#ltedi2025-homophobia/transphobia-detection-in-social-media-comments), [HOMO-MEX23](#iberlef2023-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOMO-MEX24](#iberlef2024-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOPE23](#iberlef2023-hope-multilingual-hope-speech-detection), [HOPE24](#iberlef2024-hope-approaching-hope-speech-detection-in-social-sedia-from-two-perspectives-for-equality-diversity-and-inclussion-and-as-expectations), [HODI23](#evalita2023-hodi-homotransphobia-detection-in-italian)
 
 ## Translation
 Angela Balducci Paolucci, Manuel Lardelli, and Dagmar Gromann. 2023. <a href="https://aclanthology.org/2023.gitt-1.2/"><u>Gender-Fair Language in Translation: A Case Study.</u></a> In _Proceedings of the First Workshop on Gender-Inclusive Translation Technologies_, pages 13–23, Tampere, Finland. European Association for Machine Translation.
@@ -320,28 +320,49 @@ Papers yet to be published.
 ### IberLEF2023 | HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
 
 `Overview paper`
-Gemma Bel-Enguix, Helena Gómez-Adorno, Scott T. Andersen, Juan Vásquez, and Sergio-Luis Ojeda-Trueba. 2023. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6566"><u>Overview of HOMO-MEX at IberLEF 2023: Hate Speech Detection in Online Messages Directed towards the Mexican Spanish-Speaking LGBTQ+ Population.</u></a> _Procesamiento del Lenguaje Natural_ 71, pages 361–370, A Coruña. Sociedad Española para el PLN.
+Gemma Bel-Enguix, Helena Gómez-Adorno, Scott T. Andersen, Juan Vásquez, and Sergio-Luis Ojeda-Trueba. 2023. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6566"><u>Overview of HOMO-MEX at IberLEF 2023: Hate Speech Detection in Online Messages Directed towards the Mexican Spanish-Speaking LGBTQ+ Population.</u></a> _Procesamiento del Lenguaje Natural_, 71:361–370, A Coruña. Sociedad Española para el PLN.
 
-Moein Shahiki-Tash, Jesús Armenta-Segura, Zahra Ahani, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper1.pdf"><u>LIDOMA at HOMO-MEX2023@IberLEF: Hate Speech Detection Towards the Mexican Spanish-Speaking LGBT+ Population. The Importance of Preprocessing Before Using BERT-Based Models.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Moein Shahiki-Tash, Jesús Armenta-Segura, Zahra Ahani, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper1.pdf"><u>LIDOMA at HOMO-MEX2023@IberLEF: Hate Speech Detection Towards the Mexican Spanish-Speaking LGBT+ Population. The Importance of Preprocessing Before Using BERT-Based Models.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-Erika Rivadeneira-Pérez, María de Jesús García-Santiago, and Cipriano Callejas-Hernández. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper2.pdf"><u>CIMAT-NLP at HOMO-MEX2023@IBERLEF: Machine Learning Techniques For Fine-grained Speech Detection Task.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Erika Rivadeneira-Pérez, María de Jesús García-Santiago, and Cipriano Callejas-Hernández. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper2.pdf"><u>CIMAT-NLP at HOMO-MEX2023@IBERLEF: Machine Learning Techniques For Fine-grained Speech Detection Task.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-Antonio José Morano Moriña, Javier Román Pásaro, Jacinto Mata Vázquez, and Victoria Pachón Álvarez. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper3.pdf"><u>I2C-UHU at IberLEF-2023 HOMO-MEX task: Ensembling Transformers Models to Identify and Classify Hate Messages Towards the Community LGBTQ+.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Antonio José Morano Moriña, Javier Román Pásaro, Jacinto Mata Vázquez, and Victoria Pachón Álvarez. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper3.pdf"><u>I2C-UHU at IberLEF-2023 HOMO-MEX task: Ensembling Transformers Models to Identify and Classify Hate Messages Towards the Community LGBTQ+.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-Duván-Andrés Marrugo-Tobón, Juan-Carlos Martinez-Santos, and Edwin Puertas. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper4.pdf"><u>Natural Language Content Evaluation System For Multiclass Detection of Hate Speech in Tweets Using Transformers.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Duván-Andrés Marrugo-Tobón, Juan-Carlos Martinez-Santos, and Edwin Puertas. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper4.pdf"><u>Natural Language Content Evaluation System For Multiclass Detection of Hate Speech in Tweets Using Transformers.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-Mesay Gemeda Yigezu, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper5.pdf"><u>Transformer-Based Hate Speech Detection for Multi-Class and Multi-Label Classification.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Mesay Gemeda Yigezu, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper5.pdf"><u>Transformer-Based Hate Speech Detection for Multi-Class and Multi-Label Classification.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-José Antonio García-Díaz, Salud María Jiménez-Zafra, and Rafael Valencia-García. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper6.pdf"><u>UMUTeam at HOMO-MEX 2023: Fine-tuning Large Language Models integration for solving hate-speech detection in Mexican Spanish.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+José Antonio García-Díaz, Salud María Jiménez-Zafra, and Rafael Valencia-García. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper6.pdf"><u>UMUTeam at HOMO-MEX 2023: Fine-tuning Large Language Models integration for solving hate-speech detection in Mexican Spanish.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-Carlos Fernández Rosauro, and Montse Cuadros. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper7.pdf"><u>Hate Speech Detection Against the Mexican Spanish LGBTQ+ Community Using BERT-based Transformers.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Carlos Fernández Rosauro, and Montse Cuadros. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper7.pdf"><u>Hate Speech Detection Against the Mexican Spanish LGBTQ+ Community Using BERT-based Transformers.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-Cesar Macias, Miguel Soto, Tania Alcántara, and Hiram Calvo. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper8.pdf"><u>Impact of Text Preprocessing and Feature Selection on Hate Speech Detection in Online Messages Towards the LGBTQ+ Community in Mexico.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+Cesar Macias, Miguel Soto, Tania Alcántara, and Hiram Calvo. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper8.pdf"><u>Impact of Text Preprocessing and Feature Selection on Hate Speech Detection in Online Messages Towards the LGBTQ+ Community in Mexico.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+### IberLEF2023 | HOPE: Multilingual Hope Speech Detection
+
+`Overview paper`
+Jiménez-Zafra, Salud María, Miguel Ángel Garcia-Cumbreras, Daniel García-Baena, José Antonio Garcia-Díaz, Bharathi Raja Chakravarthi, Rafael Valencia-García, and Luis Alfonso Ureña-López. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6567"><u>Overview of HOPE at IberLEF 2023: Multilingual Hope Speech Detection.</u></a> _Procesamiento del Lenguaje Natural_, 71:371-381. Sociedad Española para el PLN.
+
+Juan Luis Domínguez Olmedo, Jacinto Mata Vázquez, and Victoria Pachón Álvarez. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper1.pdf"><u>I2C-Huelva at HOPE2023@IberLEF: Simple Use of Transformers for Automatic Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Miguel Ángel Rodríguez-García, Adrián Riaño-Martínez, and Soto Montalvo Herranz. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper2.pdf"><u>URJC-Team at HOPE2023@IberLEF: Multilingual Hope Speech Detection Using Transformers Architecture.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Zahra Ahani, Grigori Sidorov, Olga Kolesnikova, and Alexander Gelbukh. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper3.pdf"><u>Zavira at HOPE2023@IberLEF: Hope Speech Detection from Text using TF-IDF Features and Machine Learning Algorithms.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Moein Shahiki-Tash, Jesús Armenta-Segura, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper4.pdf"><u>LIDOMA at HOPE2023@IberLEF: Hope Speech Detection Using Lexical Features and Convolutional Neural Networks.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Varsha Balaji, Aishwarya Kannan, Aishwarya Balaji, and Bharathi Bhagavath Singh. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper5.pdf"><u>NLP_SSN_CSE at HOPE2023@IberLEF : Multilingual Hope Speech Detection using Machine Learning Algorithms.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Anh Ngo and Hanh Thi Hong Tran. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper6.pdf"><u>Zootopi at HOPE2023@IberLEF: Is Zero-Shot ChatGPT the Future of Hope Speech Detection?.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Mesay Gemeda Yigezu, Girma Yohannis Bade, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper7.pdf"><u>Multilingual Hope Speech Detection using Machine Learning.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
+
+Ronghao Pan, Gema Alcaraz-Mármol, and Francisco García-Sánchez. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper8.pdf"><u>UMUTeam at HOPE2023@IberLEF: Evaluation of Transformer Model with Data Augmentation for Multilingual Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
 ### IberLEF2024 | HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
 
 `Overview paper`
-Helena Gómez-Adorno, Gemma Bel-Enguix, Juan Vásquez, Scott T. Andersen, and Sergio-Luis Ojeda-Trueba. 2024. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6626"><u>Overview of HOMO-MEX at IberLEF 2024: Hate Speech Detection towards the Mexican Spanish-Speaking LGBT+ Population.</u></a> _Procesamiento del Lenguaje Natural_ 73, pages 393-405. Sociedad Española para el PLN.
+Helena Gómez-Adorno, Gemma Bel-Enguix, Juan Vásquez, Scott T. Andersen, and Sergio-Luis Ojeda-Trueba. 2024. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6626"><u>Overview of HOMO-MEX at IberLEF 2024: Hate Speech Detection towards the Mexican Spanish-Speaking LGBT+ Population.</u></a> _Procesamiento del Lenguaje Natural_, 73:393-405. Sociedad Española para el PLN.
 
 Anibal Hernández-González, Julio Madera-Quintana, and Alfredo Simón-Cuevas. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper1.pdf"><u>UC-CUJAE at HOMO-MEX 2024: Detecting Hate Speech Against the LGTB+ Community using Transformers on Imbalanced Datasets.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
@@ -364,6 +385,43 @@ Sergio Damián, David Vázquez, Edgardo Felipe-Riverón, and Cornelio Yáñez-M�
 Luis Ramos, Carolina Palma-Preciado, Olga Kolesnikova, Magdalena Saldana-Perez, Grigori Sidorov, and Moein Shahiki-Tash. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper10.pdf"><u>IntelliLeksika at HOMO-MEX 2024: Detection of Homophobic Content in Spanish Lyrics with Machine Learning.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
 Daniel Ayala Niño, Manuel Montes y Gómez, and Ciro Velasco Cruz. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper11.pdf"><u>ColPos at HOMO-MEX 2024: Weighted Naive Bayes for LGBTQ+Phobia Detection in Spanish Text.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+### IberLEF2024 | HOPE: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclussion and as Expectations
+
+`Overview paper`
+Daniel García-Baena, Fazlourrahman Balouchzahi, Sabur Butt, Miguel Ángel García-Cumbreras, Atnafu Lambebo Tonja, José Antonio García-Díaz, Selen Bozkurt, Bharathi Raja Chakravarthi, Hector G. Ceballos, Rafael Valencia-García, Grigori Sidorov, L. Alfonso Ureña-López, Alexander Gelbukh, and Salud María Jiménez-Zafra. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627"><u>Overview of HOPE at IberLEF 2024: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations.</u></a> _Procesamiento del Lenguaje Natural_, 73:407-419. Sociedad Española para el PLN.
+
+Bui Hong Son, Le Minh Quan, and Dang Van Thin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper1.pdf"><u>ABCD Team at HOPE 2024: Hope Detection with BERTology Models and Data Augmentation.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Nguyen Thi Thuy and Dang Van Thin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper2.pdf"><u>An Empirical Study of Prompt Engineering with Large Language Models for Hope Detection in English and Spanish.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Chau Pham Quoc Hung and Dang Van Thin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper3.pdf"><u>Choosing the Right Language Model for the Right Task.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Lemlem Eyob, Tsadkan Yitbarek, Amna Naseeb, Grigori Sidorov, and Ildar Batyrshin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper4.pdf"><u>Enhancing Hope Speech Detection on Twitter Using Machine Learning and Transformer Models.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Sonith Divakaran, Kavya Girish, and Hosahalli Lakshmaiah Shashirekha. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper5.pdf"><u>Hope on the Horizon: Experiments with Learning Models for Hope Speech Detection in Spanish and English.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Girma Yohannis Bade, Olga Kolesnikova, José Luis Oropeza, Grigori Sidorov, and Kidist Feleke Bergene. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper6.pdf"><u>Hope Speech in Social Media Texts using Transformer.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Fida Ullah, Muhammad Tayyab Zamir, Muhammad Ahmad, Grigori Sidorov, and Alexander Gelbukh. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper7.pdf"><u>HOPE: A Multilingual Approach to Identifying Positive Communication in Social Media.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Amna Naseeb, Kawo Lemlem Eyob, Grigori Sidorov, and Olga Kolesnikova. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper8.pdf"><u>HOPE@IberLEF 2024: Beyond Binary Bounds—Classifying Hope in Online Discourse.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Mikhail Krasitskii, Olga Kolesnikova, Liliana Chanona Hernandez, Grigori Sidorov, and Alexander Gelbukh. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper9.pdf"><u>HOPE2024@IberLEF: A Cross-Linguistic Exploration of Hope Speech Detection in Social Media.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+S. Arunadevi and B. Bharathi. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper10.pdf"><u>Machine Learning Based Approach For Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Zahra Ahani, Moein Shahiki Tash, Majid Tash, Alexander Gelbukh, and Irna Gelbukh. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper11.pdf"><u>Multiclass Hope Speech Detection Through Transformer Methods.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Jesús Armenta-Segura and Grigori Sidorov. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper12.pdf"><u>Ometeotl at HOPE2024@IberLEF: Custom BERT Models for Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Michael Ibrahim. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper13.pdf"><u>Parameter-Free Spanish Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Ronghao Pan, Ángela Almela, and Gema Alcaraz-Mármol. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper14.pdf"><u>UMUTeam at HOPE@IberLEF 2024: Fine-Tuning Approach with Sentiment and Emotion Features for Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Arunraj Subburaj, Amirthagadeshwaran Kathiresan, Rahul Ponnusamy, Paul Butilaar, and Bharathi Raja Chakravarthi. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper15.pdf"><u>UniOfGalway@IberLEF 2024:Hope Speech Recognition in Spanish: A Comparative Analysis of Transformer-Based Models.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
+
+Kishore Kumar Ponnusamy, Mani Vegupatti, Prasanna Kumar Kumaresan, Ruba Priyadharshini, Paul Buitelaar, and Bharathi Raja Chakravarthi. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper16.pdf"><u>VEL@IberLEF 2024:Hope Speech Detection in Spanish Social Media Comments using BERT Pre-trained Model.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
 ### IberLEF2025 | HOMO-LAT: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ population
 
