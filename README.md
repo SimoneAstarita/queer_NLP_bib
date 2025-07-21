@@ -204,7 +204,7 @@ Daniel García-Baena, Miguel Á. García-Cumbreras, Sara M. Jiménez-Zafra, Jos�
 
 Davide Locatelli, Greta Damo, and Debora Nozza. 2023. <a href="https://aclanthology.org/2023.c3nlp-1.3"><u>A cross-lingual study of homotransphobia on twitter.</u></a> In _Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)_, pages 16–24, Dubrovnik, Croatia. Association for Computational Linguistics.
 
-Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. <a href="https://aclanthology.org/2023.woah-1.20/"><u>HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter.</u></a> In The _7th Workshop on Online Abuse and Harms (WOAH)_, pages 202–214, Toronto, Canada. Association for Computational Linguistics.
+Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. <a href="https://aclanthology.org/2023.woah-1.20/"><u>HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter.</u></a> In _The 7th Workshop on Online Abuse and Harms (WOAH)_, pages 202–214, Toronto, Canada. Association for Computational Linguistics.
 
 Jimin Mun, Emily Allaway, Akhila Yerukola, Laura Vianna, Sarah-Jane Leslie, and Maarten Sap. 2023. <a href="https://aclanthology.org/2023.findings-emnlp.653/"><u>Beyond Denouncing Hate: Strategies for Countering Implied Biases and Stereotypes in Language.</u></a> In _Findings of the Association for Computational Linguistics: EMNLP 2023_, pages 9759–9777, Singapore. Association for Computational Linguistics.
 
