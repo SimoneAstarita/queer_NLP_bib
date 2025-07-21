@@ -25,7 +25,7 @@ If you want a paper to be added to this repository, you can make a pull request 
 ## Coreference Resolution
 Yang Trista Cao and Hal Daumé III. 2020. <a href="https://aclanthology.org/2020.acl-main.418/"><u>Toward Gender-Inclusive Coreference Resolution.</u></a> In _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics_, pages 4568–4595, Online. Association for Computational Linguistics.
 
-Ankith Uppunda, Susan Cochran, Jacob Foster, Alina Arseniev-Koehler, Vickie Mays, and Kai-Wei Chang. 2021. <a href="https://aclanthology.org/2021.naacl-main.361/"><u>"Adapting Coreference Resolution for Processing Violent Death Narratives."</u></a> In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_, pages 4553–4559, Online. Association for Computational Linguistics.
+Ankith Uppunda, Susan Cochran, Jacob Foster, Alina Arseniev-Koehler, Vickie Mays, and Kai-Wei Chang. 2021. <a href="https://aclanthology.org/2021.naacl-main.361/"><u>Adapting Coreference Resolution for Processing Violent Death Narratives.</u></a> In _Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_, pages 4553–4559, Online. Association for Computational Linguistics.
 
 Connor Baumler and Rachel Rudinger. 2022. <a href="https://aclanthology.org/2022.naacl-main.250/"><u>Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution.</u></a> In _Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_, pages 3426–3432, Seattle, United States. Association for Computational Linguistics.
 
@@ -61,7 +61,7 @@ Alex Tamkin, Amanda Askell, Liane Lovitt, Esin Durmus, Nicholas Joseph, Shauna K
 
 Alessandra Teresa Cignarella, Manuela Sanguinetti, Simona Frenda, Andrea Marra, Cristina Bosco, and Valerio Basile. 2024. <a href="https://aclanthology.org/2024.lrec-main.1176/"><u>QUEEREOTYPES: A Multi-Source Italian Corpus of Stereotypes towards LGBTQIA+ Community Members.</u></a> In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_, pages 13429–13441, Torino, Italia. ELRA and ICCL.
 
-Mae Sosto and Alberto Barrón-Cedeño. 2024. <a href="https://arxiv.org/abs/2406.12399"><u> "QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities."</u></a> _Computing Research Repository_, arXiv:2406.12399.
+Mae Sosto and Alberto Barrón-Cedeño. 2024. <a href="https://arxiv.org/abs/2406.12399"><u>QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities.</u></a> _Computing Research Repository_, arXiv:2406.12399.
 
 Bastian Bunzeck and Sina Zarrieß. 2024. <a href="https://aclanthology.org/2024.genbench-1.3"><u>The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns.</u></a> In _Proceedings of the 2nd GenBench Workshop on Generalisation (Benchmarking) in NLP_, pages 42–53, Miami, Florida, USA. Association for Computational Linguistics.
 
@@ -86,39 +86,39 @@ Nasim Sobhani, Kinshuk Sengupta, and Sarah Jane Delany. 2023. <a href="https://a
 Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, United States. Association for Computing Machinery.
 
 ## LLMs
-Sheng, Emily, et al. <a href="https://aclanthology.org/D19-1339"><u>The Woman Worked as a Babysitter: On Biases in Language Generation.</u></a> Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing
+Emily Sheng, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. 2019. <a href="https://aclanthology.org/D19-1339"><u>The Woman Worked as a Babysitter: On Biases in Language Generation.</u></a> In _Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)_, pages 3407–3412, Hong Kong, China. Association for Computational Linguistics.
 
 Debora Nozza, Federico Bianchi, Anne Lauscher, and Dirk Hovy. 2022. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals.</u></a> In _Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 26–34, Dublin, Ireland. Association for Computational Linguistics.
 
-Ovalle, Anaelia et al. <a href="https://dl.acm.org/doi/10.1145/3593013.3594078"><u>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation.</u></a> In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). 
+Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, and Rahul Gupta. 2023. <a href="https://dl.acm.org/doi/10.1145/3593013.3594078"><u>“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation.</u></a> In _Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_, pages 1246–1266, Chicago, IL, USA. Association for Computing Machinery.
+
+​​Harnoor Dhingra, Preetiha Jayashanker, Sayali Moghe, and Emma Strubell. 2023. <a href="https://arxiv.org/abs/2307.00101"><u>Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models.</u>,</a> _Computing Research Repository_, arXiv:2307.00101.
+
+Tamanna Hossain, Sunipa Dev, and Sameer Singh. 2023. <a href="https://aclanthology.org/2023.acl-long.293/"><u>MISGENDERED: Limits of Large Language Models in Understanding Pronouns.</u></a> In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_, pages 5352–5367, Toronto, Canada. Association for Computational Linguistics.
 
 Virginia Felkner, Ho-Chun Herbert Chang, Eugene Jang, and Jonathan May. 2023. <a href="https://aclanthology.org/2023.acl-long.507/"><u>WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models.</u></a> In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_, pages 9126–9140, Toronto, Canada. Association for Computational Linguistics.
 
-Tamkin, Alex, et al. <a href="https://arxiv.org/pdf/2312.03689"><u>"Evaluating and mitigating discrimination in language model decisions."</u></a> arXiv preprint arXiv:2312.03689 (2023).
+Alex Tamkin, Amanda Askell, Liane Lovitt, Esin Durmus, Nicholas Joseph, Shauna Kravec, Karina Nguyen, Jared Kaplan, and Deep Ganguli. 2023. <a href="https://arxiv.org/abs/2312.03689"><u>Evaluating and mitigating discrimination in language model decisions.</u></a> _Computing Research Repository_, arXiv:2312.03689.
 
-Hossain, Tamanna, et al. <a href="https://aclanthology.org/2023.acl-long.293/"><u>"MISGENDERED: Limits of Large Language Models in Understanding Pronouns."</u></a> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.
+Shir Lissak, Nitay Calderon, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, and Roi Reichart. 2024. <a href="https://aclanthology.org/2024.naacl-long.113"><u>The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth.</u></a> In _Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)_, pages 2040–2079, Mexico City, Mexico. Association for Computational Linguistics.
 
-​​Dhingra, Harnoor, et al. <a href="https://arxiv.org/abs/2307.00101"><u>"Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models."</u>,</a> arXiv e-prints (2023): arXiv-2307.
+Sean Xie, Saeed Hassanpour, and Soroush Vosoughi. 2024. <a href="https://aclanthology.org/2024.findings-naacl.278/"><u>Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models.</u></a> In _Findings of the Association for Computational Linguistics: NAACL 2024_, pages 4451–4464, Mexico City, Mexico. Association for Computational Linguistics.
 
-Ovalle, Anaelia, et al. <a href="https://arxiv.org/abs/2411.03700"><u>"The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models."</u></a> arXiv preprint arXiv:2411.03700 (2024).
+Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, and Rahul Gupta. 2024. <a href="https://aclanthology.org/2024.findings-naacl.113/"><u>Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies.</u></a> In _Findings of the Association for Computational Linguistics: NAACL 2024_, pages 1739–1756, Mexico City, Mexico. Association for Computational Linguistics.
 
-Selma Bergstrand and Björn Gambäck. <a href="https://aclanthology.org/2024.gebnlp-1.22/"><u>Detecting and Mitigating LGBTQIA+ Bias in Large Norwegian Language Models.</u></a> In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 351–364, Bangkok, Thailand. Association for Computational Linguistics. 2024
+Mae Sosto and Alberto Barrón-Cedeño. 2024. <a href="https://arxiv.org/abs/2406.12399"><u>QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities.</u></a> _Computing Research Repository_, arXiv:2406.12399.
 
-Lissak, Shir, et al. <a href="https://aclanthology.org/2024.naacl-long.113.pdf"><u>The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth.</u></a> In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2024.
+Selma Bergstrand and Björn Gambäck. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.22/"><u>Detecting and Mitigating LGBTQIA+ Bias in Large Norwegian Language Models.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 351–364, Bangkok, Thailand. Association for Computational Linguistics.
 
-Marion Bartl and Susan Leavy. <a href="https://aclanthology.org/2024.gebnlp-1.18/"><u>From ‘Showgirls’ to ‘Performers’: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs.</u></a> In Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP), pages 280–294, Bangkok, Thailand. Association for Computational Linguistics. 2024. 
+Marion Bartl and Susan Leavy. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.18/"><u>From ‘Showgirls’ to ‘Performers’: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 280–294, Bangkok, Thailand. Association for Computational Linguistics.
 
-Xie, Sean et al. <a href="https://aclanthology.org/2024.findings-naacl.278/"><u>"Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models."</u></a> Findings of the Association for Computational Linguistics: NAACL 2024. 
+Hannah Devinney, Jenny Björklund, and Henrik Björklund. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.3/"><u>We don’t talk about that: case studies on intersectional analysis of social bias in large language models.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 33–44, Bangkok, Thailand. Association for Computational Linguistics.
 
-Knupleš, Urban et al. <a href="https://aclanthology.org/2024.findings-emnlp.680/"><u> "Gender Identity in Pretrained Language Models: An Inclusive Approach to Data Creation and Probing." </u></a> Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
+Urban Knupleš, Agnieszka Falenska, and Filip Miletić. 2024. <a href="https://aclanthology.org/2024.findings-emnlp.680/"><u>Gender Identity in Pretrained Language Models: An Inclusive Approach to Data Creation and Probing.</u></a> In _Findings of the Association for Computational Linguistics: EMNLP 2024_, pages 11612–11631, Miami, Florida, USA. Association for Computational Linguistics.
 
-Devinney, Hannah, et al. <a href="https://aclanthology.org/2024.gebnlp-1.3/"><u>"We don’t talk about that: case studies on intersectional analysis of social bias in large language models."</u></a> Workshop on Gender Bias in Natural Language Processing (GeBNLP), Bangkok, Thailand, 16th August, 2024. Association for Computational Linguistics, 2024.
+Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, USA. Association for Computing Machinery.
 
-Sosto, Mae, and Alberto Barrón-Cedeño. <a href="https://arxiv.org/abs/2406.12399"><u> "QueerBench: Quantifying Discrimination in Language Models Toward Queer Identities."</u></a> arXiv preprint arXiv:2406.12399 (2024).
-
-Tang, Kunsheng  et al. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). 2024
-
-Ovalle, Anaelia, et al. <a href="https://aclanthology.org/2024.findings-naacl.113/"><u>Tokenization matters: Navigating data-scarce tokenization for gender inclusive language technologies.</u></a> Findings of the Association for Computational Linguistics: NAACL 2024. 2024.
+Anaelia Ovalle, Krunoslav Lehman Pavasovic, Louis Martin, Luke Zettlemoyer, Eric Michael Smith, Adina Williams, and Levent Sagun. 2024. <a href="https://arxiv.org/abs/2411.03700"><u>"The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models."</u></a> _Computing Research Repository_, arXiv:2411.03700. Presented at the _Queer in AI Workshop at NeurIPS 2024_.
 
 ## Media Analysis using NLP 
 
@@ -170,7 +170,7 @@ Eddie Ungless, Bjorn Ross, and Anne Lauscher. 2023. <a href="https://aclantholog
 
 Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. 2020. <a href="https://aclanthology.org/2020.alw-1.8/"><u>Reducing Unintended Identity Bias in Russian Hate Speech Detection.</u></a> In _Proceedings of the Fourth Workshop on Online Abuse and Harms_, pages 65–69, Online. Association for Computational Linguistics.
 
-Jamell Dacon, Harry Shomer, Shaylynn Crum-Dacon, and Jiliang Tang. 2022. <a href="https://arxiv.org/abs/2207.10032"><u>Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals.</u></a> _Computing Research Repository_, arXiv:2207.10032. Presented at _Queer in AI Workshop at NAACL 2022_.
+Jamell Dacon, Harry Shomer, Shaylynn Crum-Dacon, and Jiliang Tang. 2022. <a href="https://arxiv.org/abs/2207.10032"><u>Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals.</u></a> _Computing Research Repository_, arXiv:2207.10032. Presented at the _Queer in AI Workshop at NAACL 2022_.
 
 Mark Diaz, Razvan Amironesei, Laura Weidinger, and Iason Gabriel. 2022. <a href="https://aclanthology.org/2022.woah-1.18/"><u>Accounting for offensive speech as a practice of resistance.</u></a> In _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)_, pages 192–202, Seattle, Washington (Hybrid). Association for Computational Linguistics.
 
