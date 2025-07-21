@@ -1,5 +1,5 @@
 # Queer NLP Paper Repository
-This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order.
+This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order. At the end, position papers are added, as well as papers revolving around the solution of a particular shared task.
 
 This repository does not contain:
 - papers from outside of NLP (e.g. linguistics, sociology, gender studies);
@@ -19,7 +19,7 @@ If you want a paper to be added to this repository, you can make a pull request 
 - [Sentiment Analysis](#sentiment-analysis)
 - [Text Classification](#text-classification)
 - [Text to Image](#text-to-image)
-- [Toxicity and Hate Speech](#toxicity-and-hate-speech)
+- [Toxicity and Hate/Hope Speech](#toxicity-and-hatehope-speech)
 - [Translation](#translation)
 - [Position Papers](#position-papers)
 - [Shared Tasks](#shared-tasks)
@@ -163,7 +163,7 @@ Andreas Waldis, Joel Birrer, Anne Lauscher, and Iryna Gurevych. 2024. <a href="h
 ## Text to Image
 Eddie Ungless, Bjorn Ross, and Anne Lauscher. 2023. <a href="https://aclanthology.org/2023.findings-acl.502/"><u>Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models.</u></a> In _Findings of the Association for Computational Linguistics: ACL 2023_, pages 7919–7942, Toronto, Canada. Association for Computational Linguistics.
 
-## Toxicity and Hate Speech
+## Toxicity and Hate/Hope Speech
 Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. 2020. <a href="https://aclanthology.org/2020.alw-1.8/"><u>Reducing Unintended Identity Bias in Russian Hate Speech Detection.</u></a> In _Proceedings of the Fourth Workshop on Online Abuse and Harms_, pages 65–69, Online. Association for Computational Linguistics.
 
 Jamell Dacon, Harry Shomer, Shaylynn Crum-Dacon, and Jiliang Tang. 2022. <a href="https://arxiv.org/abs/2207.10032"><u>Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals.</u></a> _Computing Research Repository_, arXiv:2207.10032. Presented at the Queer in AI Workshop at NAACL 2022.
@@ -188,6 +188,8 @@ Mayk Brendon Almeida Antunes, Matheus de Freitas Issa and Raphael Magalhães Hoe
 
 Daniel García-Baena, Miguel Á. García-Cumbreras, Sara M. Jiménez-Zafra, José A. García-Díaz, and Raúl Valencia-García. 2023. <a href="https://link.springer.com/article/10.1007/s10579-023-09638-3"><u>Hope Speech Detection in Spanish: The LGBT Case.</u></a> _Language Resources and Evaluation_, 57:1487–1514.
 
+Davide Locatelli, Greta Damo, and Debora Nozza. 2023. <a href="https://aclanthology.org/2023.c3nlp-1.3"><u>A cross-lingual study of homotransphobia on twitter.</u></a> In _Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)_, pages 16–24, Dubrovnik, Croatia. Association for Computational Linguistics.
+
 Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno, and Sergio-luis Ojeda-trueba. 2023. <a href="https://aclanthology.org/2023.woah-1.20/"><u>HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter.</u></a> In The _7th Workshop on Online Abuse and Harms (WOAH)_, pages 202–214, Toronto, Canada. Association for Computational Linguistics.
 
 Jimin Mun, Emily Allaway, Akhila Yerukola, Laura Vianna, Sarah-Jane Leslie, and Maarten Sap. 2023. <a href="https://aclanthology.org/2023.findings-emnlp.653/"><u>Beyond Denouncing Hate: Strategies for Countering Implied Biases and Stereotypes in Language.</u></a> In _Findings of the Association for Computational Linguistics: EMNLP 2023_, pages 9759–9777, Singapore. Association for Computational Linguistics.
@@ -202,7 +204,7 @@ Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 20
 
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
-Shared tasks papers: [LTEDI 2022](#ltedi2022-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2023](#ltedi2023-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2024](#ltedi2024-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2025](#ltedi2025-homophobia/transphobia-detection-in-social-media-comments), [HOMO-MEX23](#iberlef2023-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOMO-MEX24](#iberlef2024-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HODI23](#evalita2023-hodi-homotransphobia-detection-in-italian)
+Shared tasks papers: [LTEDI22](#ltedi2022-homophobia/transphobia-detection-in-social-media-comments), [LTEDI23](#ltedi2023-homophobia/transphobia-detection-in-social-media-comments), [LTEDI24](#ltedi2024-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2025](#ltedi2025-homophobia/transphobia-detection-in-social-media-comments), [HOMO-MEX23](#iberlef2023-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOMO-MEX24](#iberlef2024-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HODI23](#evalita2023-hodi-homotransphobia-detection-in-italian)
 
 ## Translation
 Angela Balducci Paolucci, Manuel Lardelli, and Dagmar Gromann. 2023. <a href="https://aclanthology.org/2023.gitt-1.2/"><u>Gender-Fair Language in Translation: A Case Study.</u></a> In _Proceedings of the First Workshop on Gender-Inclusive Translation Technologies_, pages 13–23, Tampere, Finland. European Association for Machine Translation.
