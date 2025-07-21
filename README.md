@@ -190,9 +190,9 @@ Christina Lu and David Jurgens. 2022. <a href="https://aclanthology.org/2022.woa
 
 Krithika Ramesh, Sumeet Kumar, and Ashiqur Khudabukhsh. 2022. <a href="https://aclanthology.org/2022.woah-1.23/"><u>Revisiting Queer Minorities in Lexicons.</u></a> In _Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH)_, pages 245–251, Seattle, WA, USA (Hybrid). Association for Computational Linguistics.
 
-Andrey O. Souza, Eduardo F. Nakamura, and Fabíola G. Nakamura. 2022. <a href="https://sol.sbc.org.br/index.php/bresci/article/view/20477"><u>Detecção de Discurso de Ódio: Homofobia.</u></a> In _Anais do XVI Brazilian e-Science Workshop_, pages 73–80, Niterói, Brazil. Sociedade Brasileira de Computação (SBC).
+Andrey O. Souza, Eduardo F. Nakamura, and Fabíola G. Nakamura. 2022. <a href="https://sol.sbc.org.br/index.php/bresci/article/view/20477"><u>Detecção de Discurso de Ódio: Homofobia.</u></a> In _Anais do XVI Brazilian e-Science Workshop_, pages 73–80, Niterói, Brazil. Sociedade Brasileira de Computação.
 
-Vinícius S. dos Santos, Felipe da R. Henriques, and Gustavo Guedes. 2022. <a href=""><u>O Discurso de Ódio Homofóbico no Twitter a partir da Análise de Dados.</u></a> In _Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BRASNAM)_, pages 109–120, Rio de Janeiro, Brazil. Sociedade Brasileira de Computação (SBC).
+Vinícius S. dos Santos, Felipe da R. Henriques, and Gustavo Guedes. 2022. <a href=""><u>O Discurso de Ódio Homofóbico no Twitter a partir da Análise de Dados.</u></a> In _Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BRASNAM)_, pages 109–120, Rio de Janeiro, Brazil. Sociedade Brasileira de Computação.
 
 Fatma Elsafoury, Steve R. Wilson, Stamos Katsigiannis, and Naeem Ramzan. 2022. <a href="https://aclanthology.org/2022.coling-1.108/"><u>SOS: Systematic Offensive Stereotyping Bias in Word Embeddings.</u></a> In _Proceedings of the 29th International Conference on Computational Linguistics_, pages 1263–1274, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
 
