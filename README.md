@@ -42,6 +42,8 @@ Amanda Hicks, Michael Rutherford, Christiane Fellbaum, and Jiang Bian. 2016. <a 
 
 Jesse Dodge, Maarten Sap, Ana Marasović, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner. 2021. <a href="https://aclanthology.org/2021.emnlp-main.98/"><u>Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
 
+Kristina Pahor de Maiti Tekavčič, Nikola Ljubešić and Darja Fišer. 2024. <a href="https://zenodo.org/records/13936416"><u>Expanding the Frenk Corpus of Socially Unacceptable Discourse to French.</u></a> In _Proceedings of the 14th Conference on Language Technologies and Digital Humanities (JT-DH-2024)_, pages 363-383, Ljubljana, Slovenia. Institute of Contemporary History.
+
 ## Evaluation and Benchmarks
 Soumya Barikeri, Anne Lauscher, Ivan Vulić, and Goran Glavaš. 2021. <a href="https://aclanthology.org/2021.acl-long.151/"><u>RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models.</u></a> In _Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)_, pages 1941–1955, Online. Association for Computational Linguistics.
 
@@ -78,11 +80,17 @@ Saga Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma, and Dana D
 
 Lucy Havens, Melissa Terras, Benjamin Bach, and Beatrice Alex. 2022. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text.</u></a> In _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 30–57, Seattle, Washington. Association for Computational Linguistics.
 
+Stephanie Brandl, Ruixiang Cui, and Anders Søgaard. 2022. <a href="https://aclanthology.org/2022.naacl-main.265/"><u>How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns.</u></a> In _Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_, pages 3624–3630, Seattle, United States. Association for Computational Linguistics.
+
+Anne Lauscher, Archie Crowley, and Dirk Hovy. 2022. <a href="https://aclanthology.org/2022.coling-1.105/"><u>Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender.</u></a> In _Proceedings of the 29th International Conference on Computational Linguistics_, pages 1221–1232, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
+
 Sandra Martinková, Karolina Stanczak, and Isabelle Augenstein. 2023. <a href="https://aclanthology.org/2023.bsnlp-1.17/"><u>Measuring Gender Bias in West Slavic Language Models.</u></a> In _Proceedings of the 9th Workshop on Slavic Natural Language Processing 2023 (SlavicNLP 2023)_, pages 146–154, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 Nasim Sobhani, Kinshuk Sengupta, and Sarah Jane Delany. 2023. <a href="https://aclanthology.org/2023.ranlp-1.119/"><u>Measuring Gender Bias in Natural Language Processing: Incorporating Gender-Neutral Linguistic Forms for Non-Binary Gender Identities in Abusive Speech Detection.</u></a> In _Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing_, pages 1121–1131, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria. 
 
 Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, United States. Association for Computing Machinery.
+
+Enzo Doyen and Amalia Todirascu. 2025. <a href="https://arxiv.org/abs/2505.23630"><u>GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns.</u></a> _Computing Research Repository_, arXiv:2505.23630. Forthcoming in _Findings of the Association for Computational Linguistics 2025_.
 
 ## LLMs
 Emily Sheng, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. 2019. <a href="https://aclanthology.org/D19-1339"><u>The Woman Worked as a Babysitter: On Biases in Language Generation.</u></a> In _Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)_, pages 3407–3412, Hong Kong, China. Association for Computational Linguistics.
@@ -202,6 +210,8 @@ Michael Wiegand and Josef Ruppenhofer. 2024. <a href="https://aclanthology.org/2
 
 Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 2024. <a href="https://aclanthology.org/2024.clicit-1.40/"><u>ReCLAIM Project: Exploring Italian Slurs Reappropriation with Large Language Models.</u></a> In _Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)_, pages 335–342, Pisa, Italy. CEUR Workshop Proceedings.
 
+Juan Manuel Pérez, Paula Miguel, and Viviana Cotik. 2025. <a href="https://aclanthology.org/2025.findings-naacl.400/"><u>Exploring Large Language Models for Hate Speech Detection in Rioplatense Spanish.</u></a> In _Findings of the Association for Computational Linguistics: NAACL 2025_, pages 7174–7187, Albuquerque, New Mexico. Association for Computational Linguistics.
+
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
 Shared tasks papers: [LTEDI22](##ltedi2022-homophobia/transphobia-detection-in-social-media-comments), [LTEDI23](#ltedi2023-homophobia/transphobia-detection-in-social-media-comments), [LTEDI24](#ltedi2024-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2025](#ltedi2025-homophobia/transphobia-detection-in-social-media-comments), [HOMO-MEX23](#iberlef2023-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOMO-MEX24](#iberlef2024-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOPE23](#iberlef2023-hope-multilingual-hope-speech-detection), [HOPE24](#iberlef2024-hope-approaching-hope-speech-detection-in-social-sedia-from-two-perspectives-for-equality-diversity-and-inclussion-and-as-expectations), [HODI23](#evalita2023-hodi-homotransphobia-detection-in-italian)
@@ -320,7 +330,7 @@ Papers yet to be published.
 ### IberLEF2023 | HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
 
 `Overview paper`
-Gemma Bel-Enguix, Helena Gómez-Adorno, Scott T. Andersen, Juan Vásquez, and Sergio-Luis Ojeda-Trueba. 2023. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6566"><u>Overview of HOMO-MEX at IberLEF 2023: Hate Speech Detection in Online Messages Directed towards the Mexican Spanish-Speaking LGBTQ+ Population.</u></a> _Procesamiento del Lenguaje Natural_, 71:361–370, A Coruña. Sociedad Española para el PLN.
+Gemma Bel-Enguix, Helena Gómez-Adorno, Scott T. Andersen, Juan Vásquez, and Sergio-Luis Ojeda-Trueba. 2023. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6566"><u>Overview of HOMO-MEX at IberLEF 2023: Hate Speech Detection in Online Messages Directed towards the Mexican Spanish-Speaking LGBTQ+ Population.</u></a> _Procesamiento del Lenguaje Natural_, 71:361–370, A Coruña.
 
 Moein Shahiki-Tash, Jesús Armenta-Segura, Zahra Ahani, Olga Kolesnikova, Grigori Sidorov, and Alexander Gelbukh. 2023. <a href="https://ceur-ws.org/Vol-3496/homomex-paper1.pdf"><u>LIDOMA at HOMO-MEX2023@IberLEF: Hate Speech Detection Towards the Mexican Spanish-Speaking LGBT+ Population. The Importance of Preprocessing Before Using BERT-Based Models.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
@@ -341,7 +351,7 @@ Cesar Macias, Miguel Soto, Tania Alcántara, and Hiram Calvo. 2023. <a href="htt
 ### IberLEF2023 | HOPE: Multilingual Hope Speech Detection
 
 `Overview paper`
-Jiménez-Zafra, Salud María, Miguel Ángel Garcia-Cumbreras, Daniel García-Baena, José Antonio Garcia-Díaz, Bharathi Raja Chakravarthi, Rafael Valencia-García, and Luis Alfonso Ureña-López. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6567"><u>Overview of HOPE at IberLEF 2023: Multilingual Hope Speech Detection.</u></a> _Procesamiento del Lenguaje Natural_, 71:371-381. Sociedad Española para el PLN.
+Jiménez-Zafra, Salud María, Miguel Ángel Garcia-Cumbreras, Daniel García-Baena, José Antonio Garcia-Díaz, Bharathi Raja Chakravarthi, Rafael Valencia-García, and Luis Alfonso Ureña-López. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6567"><u>Overview of HOPE at IberLEF 2023: Multilingual Hope Speech Detection.</u></a> _Procesamiento del Lenguaje Natural_, 71:371-381.
 
 Juan Luis Domínguez Olmedo, Jacinto Mata Vázquez, and Victoria Pachón Álvarez. 2023. <a href="https://ceur-ws.org/Vol-3496/hope-paper1.pdf"><u>I2C-Huelva at HOPE2023@IberLEF: Simple Use of Transformers for Automatic Hope Speech Detection.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
@@ -362,7 +372,7 @@ Ronghao Pan, Gema Alcaraz-Mármol, and Francisco García-Sánchez. 2023. <a href
 ### IberLEF2024 | HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
 
 `Overview paper`
-Helena Gómez-Adorno, Gemma Bel-Enguix, Juan Vásquez, Scott T. Andersen, and Sergio-Luis Ojeda-Trueba. 2024. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6626"><u>Overview of HOMO-MEX at IberLEF 2024: Hate Speech Detection towards the Mexican Spanish-Speaking LGBT+ Population.</u></a> _Procesamiento del Lenguaje Natural_, 73:393-405. Sociedad Española para el PLN.
+Helena Gómez-Adorno, Gemma Bel-Enguix, Juan Vásquez, Scott T. Andersen, and Sergio-Luis Ojeda-Trueba. 2024. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6626"><u>Overview of HOMO-MEX at IberLEF 2024: Hate Speech Detection towards the Mexican Spanish-Speaking LGBT+ Population.</u></a> _Procesamiento del Lenguaje Natural_, 73:393-405.
 
 Anibal Hernández-González, Julio Madera-Quintana, and Alfredo Simón-Cuevas. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper1.pdf"><u>UC-CUJAE at HOMO-MEX 2024: Detecting Hate Speech Against the LGTB+ Community using Transformers on Imbalanced Datasets.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
@@ -389,7 +399,7 @@ Daniel Ayala Niño, Manuel Montes y Gómez, and Ciro Velasco Cruz. 2024. <a href
 ### IberLEF2024 | HOPE: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclussion and as Expectations
 
 `Overview paper`
-Daniel García-Baena, Fazlourrahman Balouchzahi, Sabur Butt, Miguel Ángel García-Cumbreras, Atnafu Lambebo Tonja, José Antonio García-Díaz, Selen Bozkurt, Bharathi Raja Chakravarthi, Hector G. Ceballos, Rafael Valencia-García, Grigori Sidorov, L. Alfonso Ureña-López, Alexander Gelbukh, and Salud María Jiménez-Zafra. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627"><u>Overview of HOPE at IberLEF 2024: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations.</u></a> _Procesamiento del Lenguaje Natural_, 73:407-419. Sociedad Española para el PLN.
+Daniel García-Baena, Fazlourrahman Balouchzahi, Sabur Butt, Miguel Ángel García-Cumbreras, Atnafu Lambebo Tonja, José Antonio García-Díaz, Selen Bozkurt, Bharathi Raja Chakravarthi, Hector G. Ceballos, Rafael Valencia-García, Grigori Sidorov, L. Alfonso Ureña-López, Alexander Gelbukh, and Salud María Jiménez-Zafra. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627"><u>Overview of HOPE at IberLEF 2024: Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations.</u></a> _Procesamiento del Lenguaje Natural_, 73:407-419.
 
 Bui Hong Son, Le Minh Quan, and Dang Van Thin. 2024. <a href="https://ceur-ws.org/Vol-3756/HOPE2024_paper1.pdf"><u>ABCD Team at HOPE 2024: Hope Detection with BERTology Models and Data Augmentation.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
