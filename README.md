@@ -21,6 +21,7 @@ If you want a paper to be added to this repository, you can make a pull request 
 - [Text to Image](#text-to-image)
 - [Toxicity and Hate Speech](#toxicity-and-hate-speech)
 - [Translation](#translation)
+- [Position Papers](#position-papers)
 - [Shared Tasks](#shared-tasks)
 
 ## Coreference Resolution
@@ -201,7 +202,7 @@ Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 20
 
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
-Shared tasks papers: [HODI 2023](##evalita2023-hodi-homotransphobia-detection-in-italian)
+Shared tasks papers: [LTEDI 2022](#ltedi2022-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2023](#ltedi2023-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2024](#ltedi2024-homophobia/transphobia-detection-in-social-media-comments), [LTEDI 2025](#ltedi2025-homophobia/transphobia-detection-in-social-media-comments), [HOMO-MEX23](#iberlef2023-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HOMO-MEX24](#iberlef2024-homomex-hate-speech-detection-towards-the-mexican-spanish-speaking-lgbt-population), [HODI23](#evalita2023-hodi-homotransphobia-detection-in-italian)
 
 ## Translation
 Angela Balducci Paolucci, Manuel Lardelli, and Dagmar Gromann. 2023. <a href="https://aclanthology.org/2023.gitt-1.2/"><u>Gender-Fair Language in Translation: A Case Study.</u></a> In _Proceedings of the First Workshop on Gender-Inclusive Translation Technologies_, pages 13–23, Tampere, Finland. European Association for Machine Translation.
