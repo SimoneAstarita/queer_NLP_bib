@@ -201,7 +201,7 @@ Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 20
 
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
-Shared tasks papers: [HODI 2023](#EVALITA2023-|-HODI:-Homotransphobia-Detection-in-Italian)
+Shared tasks papers: [HODI 2023](##evalita2023-|-hodi:-homotransphobia-detection-in-italian)
 
 ## Translation
 Angela Balducci Paolucci, Manuel Lardelli, and Dagmar Gromann. 2023. <a href="https://aclanthology.org/2023.gitt-1.2/"><u>Gender-Fair Language in Translation: A Case Study.</u></a> In _Proceedings of the First Workshop on Gender-Inclusive Translation Technologies_, pages 13–23, Tampere, Finland. European Association for Machine Translation.
