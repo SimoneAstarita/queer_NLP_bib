@@ -107,6 +107,8 @@ Virginia Felkner, Ho-Chun Herbert Chang, Eugene Jang, and Jonathan May. 2023. <a
 
 Alex Tamkin, Amanda Askell, Liane Lovitt, Esin Durmus, Nicholas Joseph, Shauna Kravec, Karina Nguyen, Jared Kaplan, and Deep Ganguli. 2023. <a href="https://arxiv.org/abs/2312.03689"><u>Evaluating and mitigating discrimination in language model decisions.</u></a> _Computing Research Repository_, arXiv:2312.03689.
 
+Zilin Ma, Yiyang Mei, Yinru Long, Zhaoyuan Su, and Krzysztof Z. Gajos. 2024. <a href="https://dl.acm.org/doi/10.1145/3613904.3642482"><u>Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support.</u></a> In _Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24)_, pages 1–15, Honolulu, HI, USA. Association for Computing Machinery.
+
 Shir Lissak, Nitay Calderon, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, and Roi Reichart. 2024. <a href="https://aclanthology.org/2024.naacl-long.113"><u>The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth.</u></a> In _Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)_, pages 2040–2079, Mexico City, Mexico. Association for Computational Linguistics.
 
 Sean Xie, Saeed Hassanpour, and Soroush Vosoughi. 2024. <a href="https://aclanthology.org/2024.findings-naacl.278/"><u>Addressing Healthcare-related Racial and LGBTQ+ Biases in Pretrained Language Models.</u></a> In _Findings of the Association for Computational Linguistics: NAACL 2024_, pages 4451–4464, Mexico City, Mexico. Association for Computational Linguistics.
@@ -126,6 +128,10 @@ Urban Knupleš, Agnieszka Falenska, and Filip Miletić. 2024. <a href="https://a
 Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, USA. Association for Computing Machinery.
 
 Anaelia Ovalle, Krunoslav Lehman Pavasovic, Louis Martin, Luke Zettlemoyer, Eric Michael Smith, Adina Williams, and Levent Sagun. 2024. <a href="https://arxiv.org/abs/2411.03700"><u>The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models.</u></a> _Computing Research Repository_, arXiv:2411.03700. Presented at the Queer in AI Workshop at NeurIPS 2024.
+
+Ruby Ostrow and Adam Lopez. 2025. <a href="https://arxiv.org/abs/2501.05926"><u>LLMs Reproduce Stereotypes of Sexual and Gender Minorities.</u></a> _Computing Research Repository_, arXiv:2501.05926. Under review.
+
+Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732045"><u>Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 710–745, Athens, Greece. Association for Computing Machinery.
 
 ## Media Analysis using NLP 
 Amanda Hicks, Michael Rutherford, Christiane Fellbaum, and Jiang Bian. 2016. <a href="https://aclanthology.org/2016.gwc-1.19"><u>An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey.</u></a> In _Proceedings of the 8th Global WordNet Conference (GWC)_, pages 123–130, Bucharest, Romania. Global Wordnet Association.
