@@ -201,6 +201,8 @@ Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 20
 
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
+Shared tasks papers: [HODI 2023](#EVALITA2023-|-HODI:-Homotransphobia-Detection-in-Italian)
+
 ## Translation
 Angela Balducci Paolucci, Manuel Lardelli, and Dagmar Gromann. 2023. <a href="https://aclanthology.org/2023.gitt-1.2/"><u>Gender-Fair Language in Translation: A Case Study.</u></a> In _Proceedings of the First Workshop on Gender-Inclusive Translation Technologies_, pages 13–23, Tampere, Finland. European Association for Machine Translation.
 
@@ -239,11 +241,11 @@ Dawn McAra-Hunter. 2024. <a href="https://link.springer.com/article/10.1007/s436
 
 Vagrant Gautam, Arjun Subramonian, Anne Lauscher, and Os Keyes. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.20/"><u>Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 323–337, Bangkok, Thailand. Association for Computational Linguistics.
 
-## Shared Tasks Papers
+## Shared Tasks
 
 ## LTEDI: The Workshop on Language Technology for Equality, Diversity, Inclusion
 
-### LTEDI 2022 – Homophobia/Transphobia Detection in Social Media Comments
+### LTEDI 2022 | Homophobia/Transphobia Detection in Social Media Comments
 
 `Overview paper`
 Bharathi Raja Chakravarthi, Ruba Priyadharshini, Thenmozhi Durairaj, John McCrae, Paul Buitelaar, Prasanna Kumaresan, and Rahul Ponnusamy. 2022. <a href="https://aclanthology.org/2022.ltedi-1.57/"><u>Overview of The Shared Task on Homophobia and Transphobia Detection in Social Media Comments.</u></a> In _Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 369–377, Dublin, Ireland. Association for Computational Linguistics.
@@ -266,7 +268,7 @@ Arianna Muti, Marta Marchiori Manerba, Katerina Korre, and Alberto Barrón-Cede�
 
 Muskaan Singh and Petr Motlicek. 2022. <a href="https://aclanthology.org/2022.ltedi-1.55/"><u>IDIAP Submission@LT-EDI-ACL2022: Homophobia/Transphobia Detection in social media comments.</u></a> In _Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 356–361, Dublin, Ireland. Association for Computational Linguistics.
 
-### LTEDI 2023 – Homophobia/Transphobia Detection in Social Media Comments
+### LTEDI 2023 | Homophobia/Transphobia Detection in Social Media Comments
 
 `Overview paper`
 Bharathi Raja Chakravarthi, Rahul Ponnusamy, Malliga S, Paul Buitelaar, Miguel Ángel García-Cumbreras, Salud María Jimenez-Zafra, Jose Antonio Garcia-Diaz, Rafael Valencia-Garcia, and Nitesh Jindal. 2023. <a href="https://aclanthology.org/2023.ltedi-1.6/"><u>Overview of Second Shared Task on Homophobia and Transphobia Detection in Social Media Comments.</u></a> In _Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 38–46, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
@@ -287,7 +289,7 @@ Shwetha Sureshnathan, Samyuktaa Sivakumar, Priyadharshini Thandavamurthi, Thenmo
 
 Asha Hegde, Kavya G, Sharal Coelho, and Hosahalli Lakshmaiah Shashirekha. 2023. <a href="https://aclanthology.org/2023.ltedi-1.44/"><u>MUCS@LT-EDI2023: Homophobic/Transphobic Content Detection in Social Media Text using mBERT.</u></a> In _Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 287–294, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
-### LTEDI 2024 – Homophobia/Transphobia Detection in Social Media Comments
+### LTEDI 2024 | Homophobia/Transphobia Detection in Social Media Comments
 
 `Overview paper`
 Bharathi Raja Chakravarthi, Prasanna Kumaresan, Ruba Priyadharshini, Paul Buitelaar, Asha Hegde, Hosahalli Shashirekha, Saranya Rajiakodi, Miguel Ángel García, Salud María Jiménez-Zafra, José García-Díaz, Rafael Valencia-García, Kishore Ponnusamy, Poorvi Shetty, and Daniel García-Baena. 2024. <a href="https://aclanthology.org/2024.ltedi-1.11/"><u>Overview of Third Shared Task on Homophobia and Transphobia Detection in Social Media Comments.</u></a> In _Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 124–132, St. Julian's, Malta. Association for Computational Linguistics.
@@ -306,13 +308,13 @@ Sargam Yadav, Abhishek Kaushik, and Kevin McDaid. 2024. <a href="https://aclanth
 
 Sonali Kulal, Nethravathi Gidnakanala, Raksha G, Kavya G, Asha Hegde, and H Shashirekha. 2024. <a href="https://aclanthology.org/2024.ltedi-1.39/"><u>MUCS@LT-EDI-2024: Learning Approaches to Empower Homophobic/Transphobic Comment Identification.</u></a> In _Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity, Inclusion_, pages 288–293, St. Julian's, Malta. Association for Computational Linguistics.
 
-### LTEDI 2025 – Homophobia/Transphobia Detection in Social Media Comments
+### LTEDI 2025 | Homophobia/Transphobia Detection in Social Media Comments
 
 Papers yet to be published.
 
 ## IberLEF: The Iberian Language Evaluation Forum
 
-### IberLEF2023 – HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
+### IberLEF2023 | HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
 
 `Overview paper`
 Gemma Bel-Enguix, Helena Gómez-Adorno, Scott T. Andersen, Juan Vásquez, and Sergio-Luis Ojeda-Trueba. 2023. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6566"><u>Overview of HOMO-MEX at IberLEF 2023: Hate Speech Detection in Online Messages Directed towards the Mexican Spanish-Speaking LGBTQ+ Population.</u></a> _Procesamiento del Lenguaje Natural_ 71, pages 361–370, A Coruña. Sociedad Española para el PLN.
@@ -333,7 +335,7 @@ Carlos Fernández Rosauro, and Montse Cuadros. 2024. <a href="https://ceur-ws.or
 
 Cesar Macias, Miguel Soto, Tania Alcántara, and Hiram Calvo. 2024. <a href="https://ceur-ws.org/Vol-3496/homomex-paper8.pdf"><u>Impact of Text Preprocessing and Feature Selection on Hate Speech Detection in Online Messages Towards the LGBTQ+ Community in Mexico.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)_, Jaén, Spain. CEUR-WS.org.
 
-### IberLEF2024 – HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
+### IberLEF2024 | HOMO-MEX: Hate speech detection towards the Mexican Spanish speaking LGBT+ population
 
 `Overview paper`
 Helena Gómez-Adorno, Gemma Bel-Enguix, Juan Vásquez, Scott T. Andersen, and Sergio-Luis Ojeda-Trueba. 2024. <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6626"><u>Overview of HOMO-MEX at IberLEF 2024: Hate Speech Detection towards the Mexican Spanish-Speaking LGBT+ Population.</u></a> _Procesamiento del Lenguaje Natural_ 73, pages 393-405. Sociedad Española para el PLN.
@@ -360,13 +362,13 @@ Luis Ramos, Carolina Palma-Preciado, Olga Kolesnikova, Magdalena Saldana-Perez, 
 
 Daniel Ayala Niño, Manuel Montes y Gómez, and Ciro Velasco Cruz. 2024. <a href="https://ceur-ws.org/Vol-3756/HOMO-MEX2024_paper11.pdf"><u>ColPos at HOMO-MEX 2024: Weighted Naive Bayes for LGBTQ+Phobia Detection in Spanish Text.</u></a> In _Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2024)_, Valladolid, Spain. CEUR-WS.org.
 
-### IberLEF2025 – HOMO-LAT: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ population
+### IberLEF2025 | HOMO-LAT: Human-centric polarity detection in Online Messages Oriented to the Latin American-speaking LGBTQ+ population
 
 Papers yet to be published.
 
 ## The Final Workshop for EVALITA, the evaluation campaign of Natural Language Processing (NLP) and speech tools for the Italian language
 
-### EVALITA2023 – HODI: Homotransphobia Detection in Italian
+### EVALITA2023 | HODI: Homotransphobia Detection in Italian
 
 `Overview paper`
 Debora Nozza, Alessandra Teresa Cignarella, Greta Damo, Tommaso Caselli, and Viviana Patti. 2023. <a href="https://ceur-ws.org/Vol-3473/paper26.pdf"><u>HODI at EVALITA 2023: Overview of the first Shared Task on Homotransphobia Detection in Italian.</u></a> In _Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2023)_, Parma, Italy. CEUR-WS.org.
