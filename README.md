@@ -90,6 +90,8 @@ Nasim Sobhani, Kinshuk Sengupta, and Sarah Jane Delany. 2023. <a href="https://a
 
 Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, USA. Association for Computing Machinery.
 
+Cassandra L. Jacobs and Morgan Grobol. 2025. <a href="https://aclanthology.org/2025.queerinai-main.5/"><u>A Bayesian account of pronoun and neopronoun acquisition.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 35–40, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
+
 Enzo Doyen and Amalia Todirascu. 2025. <a href="https://arxiv.org/abs/2505.23630"><u>GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns.</u></a> _Computing Research Repository_, arXiv:2505.23630. Forthcoming in _Findings of the Association for Computational Linguistics 2025_.
 
 ## LLMs
@@ -129,6 +131,12 @@ Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Q
 
 Anaelia Ovalle, Krunoslav Lehman Pavasovic, Louis Martin, Luke Zettlemoyer, Eric Michael Smith, Adina Williams, and Levent Sagun. 2024. <a href="https://arxiv.org/abs/2411.03700"><u>The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models.</u></a> _Computing Research Repository_, arXiv:2411.03700. Presented at the Queer in AI Workshop at NeurIPS 2024.
 
+Joshua Tint. 2025. <a href="https://aclanthology.org/2025.queerinai-main.2/"><u>Guardrails, not Guidance: Understanding Responses to LGBTQ+ Language in Large Language Models.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 6–16, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
+
+Alexandria Leto, Juan Vásquez, Alexis Palmer, and Maria Leonor Pacheco. 2025. <a href="https://aclanthology.org/2025.queerinai-main.3/"><u>Dehumanization of LGBTQ+ Groups in Sexual Interactions with ChatGPT.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 17–25, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
+
+Quoc-Toan Nguyen, Josh Nguyen, Tuan Pham, and William John Teahan. 2025. <a href="https://aclanthology.org/2025.queerinai-main.4/"><u>Leveraging Large Language Models in Detecting Anti-LGBTQIA+ User-generated Texts.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 26–34, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
+
 Ruby Ostrow and Adam Lopez. 2025. <a href="https://arxiv.org/abs/2501.05926"><u>LLMs Reproduce Stereotypes of Sexual and Gender Minorities.</u></a> _Computing Research Repository_, arXiv:2501.05926. Under review.
 
 Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732045"><u>Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 710–745, Athens, Greece. Association for Computing Machinery.
@@ -149,6 +157,8 @@ Katharina Suhr and Michael Roth. 2024. <a href="https://aclanthology.org/2024.lt
 Scott Andersen, Segio-Luis Ojeda-Trueba, Juan Vásquez, and Gemma Bel-Enguix. 2024. <a href="https://aclanthology.org/2024.woah-1.14"><u>The Mexican Gayze: A Computational Analysis of the Attitudes towards the LGBT+ Population in Mexico on Social Media Across a Decade.</u></a> In _Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024)_, pages 178–200, Mexico City, Mexico. Association for Computational Linguistics.
 
 Farhan Samir, Chan Young Park, Anjalie Field, Vered Shwartz, and Yulia Tsvetkov. 2024. <a href="https://aclanthology.org/2024.emnlp-main.384"><u>Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia.</u></a> In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, pages 6747–6762, Miami, FL, USA. Association for Computational Linguistics.
+
+Mika Hämäläinen. 2025. <a href="https://aclanthology.org/2025.queerinai-main.1/"><u>Studying the Representation of the LGBTQ+ Community in RuPaul’s Drag Race with LLM-Based Topic Modeling.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 1–5, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
 
 ## POS Tagging
 Henrik Björklund and Hannah Devinney. <a href="https://aclanthology.org/2023.ltedi-1.8"><u>Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish.</u></a> In _Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 54–61, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
@@ -218,6 +228,8 @@ Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 20
 
 Juan Manuel Pérez, Paula Miguel, and Viviana Cotik. 2025. <a href="https://aclanthology.org/2025.findings-naacl.400/"><u>Exploring Large Language Models for Hate Speech Detection in Rioplatense Spanish.</u></a> In _Findings of the Association for Computational Linguistics: NAACL 2025_, pages 7174–7187, Albuquerque, NM, USA. Association for Computational Linguistics.
 
+Quoc-Toan Nguyen, Josh Nguyen, Tuan Pham, and William John Teahan. 2025. <a href="https://aclanthology.org/2025.queerinai-main.4/"><u>Leveraging Large Language Models in Detecting Anti-LGBTQIA+ User-generated Texts.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 26–34, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
+
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
 
 Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI 2025](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HODI23](#hodi23)
@@ -259,6 +271,8 @@ Azure Zhou. 2024. <a href="https://ojs.stanford.edu/ojs/index.php/grace/article/
 Dawn McAra-Hunter. 2024. <a href="https://link.springer.com/article/10.1007/s43681-024-00423-8#citeas"><u>How AI hype impacts the LGBTQ + community.</u></a> _AI Ethics_, 4:771–790.
 
 Vagrant Gautam, Arjun Subramonian, Anne Lauscher, and Os Keyes. 2024. <a href="https://aclanthology.org/2024.gebnlp-1.20/"><u>Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP.</u></a> In _Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 323–337, Bangkok, Thailand. Association for Computational Linguistics.
+
+Angelina Wang. 2025. <a href="https://dl.acm.org/doi/full/10.1145/3715275.3732033"><u>Identities are not Interchangeable: The Problem of Overgeneralization in Fair Machine Learning.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 485–497, Athens, Greece. Association for Computing Machinery.
 
 ## Shared Tasks
 
