@@ -163,7 +163,7 @@ Farhan Samir, Chan Young Park, Anjalie Field, Vered Shwartz, and Yulia Tsvetkov.
 Mika Hämäläinen. 2025. <a href="https://aclanthology.org/2025.queerinai-main.1/"><u>Studying the Representation of the LGBTQ+ Community in RuPaul’s Drag Race with LLM-Based Topic Modeling.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 1–5, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
 
 ## POS Tagging
-Henrik Björklund and Hannah Devinney. <a href="https://aclanthology.org/2023.ltedi-1.8"><u>Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish.</u></a> In _Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 54–61, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
+Henrik Björklund and Hannah Devinney. 2023. <a href="https://aclanthology.org/2023.ltedi-1.8"><u>Computer, enhence: POS-tagging improvements for nonbinary pronoun use in Swedish.</u></a> In _Proceedings of the Third Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 54–61, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
 ## Question Answering
 Jacqueline Brixey, Rens Hoegen, Wei Lan, Joshua Rusow, Karan Singla, Xusen Yin, Ron Artstein, and Anton Leuski. 2017. <a href="https://aclanthology.org/W17-5544"><u>Shihbot: A Facebook chatbot for Sexual Health Information on HIV/AIDS.</u></a> In _Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue_, pages 370–373, Saarbrücken, Germany. Association for Computational Linguistics.
