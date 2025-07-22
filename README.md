@@ -1,9 +1,11 @@
 # Queer NLP Paper Repository
-This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order. At the end, there are position papers as well as papers revolving around the solution of a particular shared task. The citation style used is akin to the one used by the Association for Computational Linguistics (ACL). The [bib file](refs.bib) contains unique references for all the papers in this repository.
+This repository collects papers that sit at the intersection between the queer community and natural language processing. It is sorted by tasks, and a single paper can appear in multiple sections. Tasks are presented in alphabetical order and papers are presented in chronological order. We leave at the end position papers and papers on shared tasks.
 
 This repository does not contain:
 - papers from outside of NLP (e.g. linguistics, sociology, gender studies);
 - papers that don't explicitly mention the queer community or subsets of the queer community.
+
+The citation style used is akin to the one used by the Association for Computational Linguistics (ACL). The [bib file](refs.bib) contains unique references for all the papers in this repository.
 
 If you want a paper to be added to this repository, you can make a pull request or submit it via <a href="https://docs.google.com/forms/d/e/1FAIpQLScpZxc6V5OgS77hy08qt3iuA1vOdqkvCuQ74xRSGJ6Hjs7zAw/viewform?usp=header"><u>this google form</u></a>.
 
@@ -40,7 +42,7 @@ Vagrant Gautam, Eileen Bingert, Dawei Zhu, Anne Lauscher, and Dietrich Klakow. 2
 ## Data Collection
 Amanda Hicks, Michael Rutherford, Christiane Fellbaum, and Jiang Bian. 2016. <a href="https://aclanthology.org/2016.gwc-1.19"><u>An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey.</u></a> In _Proceedings of the 8th Global WordNet Conference (GWC)_, pages 123–130, Bucharest, Romania. Global Wordnet Association.
 
-Jesse Dodge, Maarten Sap, Ana Marasović, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner. 2021. <a href="https://aclanthology.org/2021.emnlp-main.98/"><u>Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+Jesse Dodge, Maarten Sap, Ana Marasović, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner. 2021. <a href="https://aclanthology.org/2021.emnlp-main.98/"><u>Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 1286–1305, Punta Cana, Dominican Republic (Hybrid). Association for Computational Linguistics.
 
 Kristina Pahor de Maiti Tekavčič, Nikola Ljubešić and Darja Fišer. 2024. <a href="https://zenodo.org/records/13936416"><u>Expanding the Frenk Corpus of Socially Unacceptable Discourse to French.</u></a> In _Proceedings of the 14th Conference on Language Technologies and Digital Humanities (JT-DH-2024)_, pages 363-383, Ljubljana, Slovenia. Institute of Contemporary History.
 
@@ -146,7 +148,7 @@ Amanda Hicks, Michael Rutherford, Christiane Fellbaum, and Jiang Bian. 2016. <a 
 
 Han-Tang Hung and Shu-Kai Hsieh. 2020. <a href="https://aclanthology.org/2020.paclic-1.47"><u>Exploring Discourse on Same-sex Marriage in Taiwan: A Case Study of Near-Synonym of HOMOSEXUAL in Opposing Stances.</u></a> In _Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation_, pages 411–419, Hanoi, Vietnam. Association for Computational Linguistics.
 
-Sky CH-Wang and David Jurgens. 2021. <a href="https://aclanthology.org/2021.emnlp-main.782/"><u>Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 9918–9938, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+Sky CH-Wang and David Jurgens. 2021. <a href="https://aclanthology.org/2021.emnlp-main.782/"><u>Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 9918–9938, Punta Cana, Dominican Republic (Hybrid), Dominican Republic. Association for Computational Linguistics.
 
 Davide Locatelli, Greta Damo, and Debora Nozza. 2023. <a href="https://aclanthology.org/2023.c3nlp-1.3"><u>A cross-lingual study of homotransphobia on twitter.</u></a> In _Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)_, pages 16–24, Dubrovnik, Croatia. Association for Computational Linguistics.
 
@@ -258,7 +260,7 @@ Fanny Jourdan, Yannick Chevalier, and Cécile Favre. 2025. <a href="https://dl.a
 ## Position Papers
 Brian Larson. 2017. <a href="https://aclanthology.org/W17-1601/"><u>Gender as a Variable in Natural-Language Processing: Ethical Considerations.</u></a> In _Proceedings of the First ACL Workshop on Ethics in Natural Language Processing_, pages 1–11, Valencia, Spain. Association for Computational Linguistics.
 
-Sunipa Dev, Masoud Monajatipoor, Anaelia Ovalle, Arjun Subramonian, Jeff Phillips, and Kai-Wei Chang. 2021. <a href="https://aclanthology.org/2021.emnlp-main.150/"><u>Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 1968–1994, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics.
+Sunipa Dev, Masoud Monajatipoor, Anaelia Ovalle, Arjun Subramonian, Jeff Phillips, and Kai-Wei Chang. 2021. <a href="https://aclanthology.org/2021.emnlp-main.150/"><u>Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.</u></a> In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_, pages 1968–1994, Punta Cana, Dominican Republic (Hybrid). Association for Computational Linguistics.
 
 Hannah Devinney, Jenny Björklund, and Henrik Björklund. 2022. <a href="https://dl.acm.org/doi/10.1145/3531146.3534627"><u>Theories of “Gender” in NLP Bias Research.</u></a> In _Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)_, pages 2083–2102, Seoul, Republic of Korea. Association for Computing Machinery.
 
