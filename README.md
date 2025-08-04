@@ -97,6 +97,8 @@ Cassandra L. Jacobs and Morgan Grobol. 2025. <a href="https://aclanthology.org/2
 Enzo Doyen and Amalia Todirascu. 2025. <a href="https://arxiv.org/abs/2505.23630"><u>GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns.</u></a> _Computing Research Repository_, arXiv:2505.23630. Forthcoming in _Findings of the Association for Computational Linguistics 2025_.
 
 ## LLMs
+Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
+
 Emily Sheng, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. 2019. <a href="https://aclanthology.org/D19-1339"><u>The Woman Worked as a Babysitter: On Biases in Language Generation.</u></a> In _Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)_, pages 3407–3412, Hong Kong, China. Association for Computational Linguistics.
 
 Debora Nozza, Federico Bianchi, Anne Lauscher, and Dirk Hovy. 2022. <a href="https://aclanthology.org/2022.ltedi-1.4/"><u>Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals.</u></a> In _Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion_, pages 26–34, Dublin, Ireland. Association for Computational Linguistics.
@@ -190,6 +192,8 @@ Andreas Waldis, Joel Birrer, Anne Lauscher, and Iryna Gurevych. 2024. <a href="h
 Eddie Ungless, Bjorn Ross, and Anne Lauscher. 2023. <a href="https://aclanthology.org/2023.findings-acl.502/"><u>Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models.</u></a> In _Findings of the Association for Computational Linguistics: ACL 2023_, pages 7919–7942, Toronto, Canada. Association for Computational Linguistics.
 
 ## Toxicity and Hate/Hope Speech
+Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
+
 Zueva, Nadezhda, Madina Kabirova, and Pavel Kalaidin. 2020. <a href="https://aclanthology.org/2020.alw-1.8/"><u>Reducing Unintended Identity Bias in Russian Hate Speech Detection.</u></a> In _Proceedings of the Fourth Workshop on Online Abuse and Harms_, pages 65–69, Online. Association for Computational Linguistics.
 
 Jamell Dacon, Harry Shomer, Shaylynn Crum-Dacon, and Jiliang Tang. 2022. <a href="https://arxiv.org/abs/2207.10032"><u>Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals.</u></a> _Computing Research Repository_, arXiv:2207.10032. Presented at the Queer in AI Workshop at NAACL 2022.
@@ -237,6 +241,8 @@ Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="htt
 Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI 2025](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HODI23](#hodi23)
 
 ## Translation
+Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
+
 Angela Balducci Paolucci, Manuel Lardelli, and Dagmar Gromann. 2023. <a href="https://aclanthology.org/2023.gitt-1.2/"><u>Gender-Fair Language in Translation: A Case Study.</u></a> In _Proceedings of the First Workshop on Gender-Inclusive Translation Technologies_, pages 13–23, Tampere, Finland. European Association for Machine Translation.
 
 Anne Lauscher, Debora Nozza, Ehm Miltersen, Archie Crowley, and Dirk Hovy. 2023. <a href="https://aclanthology.org/2023.acl-long.23/"><u> What about “em”? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns.</u></a> In _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_, pages 377–392, Toronto, Canada. Association for Computational Linguistics.
