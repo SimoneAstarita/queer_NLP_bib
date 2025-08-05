@@ -71,14 +71,14 @@ Bastian Bunzeck and Sina Zarrieß. 2024. <a href="https://aclanthology.org/2024.
 
 Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, USA. Association for Computing Machinery.
 
-Arjun Subramonian, Vagrant Gautam, Preethi Seshadri, Dietrich Klakow, Kai-Wei Chang and Yizhou Sun. 2025. <a href="https://arxiv.org/abs/2504.17075#"><u>Agree to Disagree? A Meta-Evaluation of LLM Misgendering</u></a> _Computing Research Repository_, arXiv:2504.17075. Work in progress.
+Arjun Subramonian, Vagrant Gautam, Preethi Seshadri, Dietrich Klakow, Kai-Wei Chang and Yizhou Sun. 2025. <a href="https://arxiv.org/abs/2504.17075#"><u>Agree to Disagree? A Meta-Evaluation of LLM Misgendering.</u></a> _Computing Research Repository_, arXiv:2504.17075. Work in progress.
+
+Greta Damo, Alessandra Teresa Cignarella, Tommaso Caselli, Viviana Patti, and Debora Nozza. 2025. <a href="https://aclanthology.org/2025.woah-1.11/"><u>HODIAT: A Dataset for Detecting Homotransphobic Hate Speech in Italian with Aggressiveness and Target Annotation.</u></a> In _Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)_, pages 124–135, Vienna, Austria. Association for Computational Linguistics.
 
 ## Gender Bias Including Nonbinary Genders
 Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme. 2018. <a href="https://aclanthology.org/N18-2002/"><u>Gender Bias in Coreference Resolution.</u></a> In _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)_, pages 8–14, New Orleans, LA, USA. Association for Computational Linguistics.
 
 Hannah Devinney, Jenny Björklund, and Henrik Björklund. 2020. <a href="https://aclanthology.org/2020.gebnlp-1.8/"><u>Semi-supervised topic modeling for gender bias discovery in English and Swedish.</u></a> In _Proceedings of the Second Workshop on Gender Bias in Natural Language Processing_, pages 79–92, Barcelona, Spain (Online). Association for Computational Linguistics.
-
-Saga Hansson, Konstantinos Mavromatakis, Yvonne Adesam, Gerlof Bouma, and Dana Dannélls. 2021. <a href="https://aclanthology.org/2021.nodalida-main.52/"><u>The Swedish Winogender Dataset.</u></a> In _Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)_, pages 452–459, Reykjavik, Iceland (Online). Linköping University Electronic Press.
 
 Lucy Havens, Melissa Terras, Benjamin Bach, and Beatrice Alex. 2022. <a href="https://aclanthology.org/2022.gebnlp-1.4/"><u>Uncertainty and inclusivity in gender bias annotation: An annotation taxonomy and annotated datasets of British English text.</u></a> In _Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 30–57, Seattle, WA, USA. Association for Computational Linguistics.
 
@@ -94,7 +94,17 @@ Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Q
 
 Cassandra L. Jacobs and Morgan Grobol. 2025. <a href="https://aclanthology.org/2025.queerinai-main.5/"><u>A Bayesian account of pronoun and neopronoun acquisition.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 35–40, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
 
-Enzo Doyen and Amalia Todirascu. 2025. <a href="https://arxiv.org/abs/2505.23630"><u>GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns.</u></a> _Computing Research Repository_, arXiv:2505.23630. Forthcoming in _Findings of the Association for Computational Linguistics 2025_.
+Franziska Sofia Hafner, Ana Valdivia, and Luc Rocher. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732112"><u>Gender Trouble in Language Models: An Empirical Audit Guided by Gender Performativity Theory.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 1677–1695, Athens, Greece. Association for Computing Machinery.
+
+Enzo Doyen and Amalia Todirascu. 2025. <a href="https://aclanthology.org/2025.findings-acl.411/"><u>GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns.</u></a> In _Findings of the Association for Computational Linguistics: ACL 2025_, pages 7889–7909, Vienna, Austria. Association for Computational Linguistics.
+
+Elisa Forcada Rodríguez, Olatz Perez-de-Vinaspre, Jon Ander Campos, Dietrich Klakow, and Vagrant Gautam. 2025. <a href="https://aclanthology.org/2025.gebnlp-1.18/"><u>Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs.</u></a> In _Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 182–194, Vienna, Austria. Association for Computational Linguistics.
+
+Janiça Hackenbuchner, Joke Daems, and Eleni Gkovedarou. 2025. <a href="https://aclanthology.org/2025.gebnlp-1.27/"><u>GENDEROUS: Machine Translation and Cross-Linguistic Evaluation of a Gender-Ambiguous Dataset.</u></a> In _Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 302–319, Vienna, Austria. Association for Computational Linguistics.
+
+Paolo Mainardi, Federico Garcea, and Alberto Barrón-Cedeño. 2025. <a href="https://aclanthology.org/2025.gebnlp-1.28/"><u>Fine-Tuning vs Prompting Techniques for Gender-Fair Rewriting of Machine Translations.</u></a> In _Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 320–337, Vienna, Austria. Association for Computational Linguistics.
+
+Marion Bartl, Thomas Brendan Murphy, and Susan Leavy. 2025. <a href="https://aclanthology.org/2025.gebnlp-1.38/"><u>Adapting Psycholinguistic Research for LLMs: Gender-inclusive Language in a Coreference Context.</u></a> In _Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)_, pages 451–467, Vienna, Austria. Association for Computational Linguistics.
 
 ## LLMs
 Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
@@ -133,7 +143,7 @@ Urban Knupleš, Agnieszka Falenska, and Filip Miletić. 2024. <a href="https://a
 
 Kunsheng Tang, Wenbo Zhou, Jie Zhang, Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, and NengHai Yu. 2024. <a href="https://dl.acm.org/doi/abs/10.1145/3658644.3670284"><u>GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.</u></a> In _Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24)_, pages 1196–1210, Salt Lake City, UT, USA. Association for Computing Machinery.
 
-Anaelia Ovalle, Krunoslav Lehman Pavasovic, Louis Martin, Luke Zettlemoyer, Eric Michael Smith, Adina Williams, and Levent Sagun. 2024. <a href="https://arxiv.org/abs/2411.03700"><u>The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models.</u></a> _Computing Research Repository_, arXiv:2411.03700. Presented at the Queer in AI Workshop at NeurIPS 2024.
+Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.11/"><u>”Is Hate Lost in Translation?”: Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146–152, Canberra, Australia. Association for Computational Linguistics.
 
 Joshua Tint. 2025. <a href="https://aclanthology.org/2025.queerinai-main.2/"><u>Guardrails, not Guidance: Understanding Responses to LGBTQ+ Language in Large Language Models.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 6–16, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
 
@@ -144,6 +154,8 @@ Quoc-Toan Nguyen, Josh Nguyen, Tuan Pham, and William John Teahan. 2025. <a href
 Ruby Ostrow and Adam Lopez. 2025. <a href="https://arxiv.org/abs/2501.05926"><u>LLMs Reproduce Stereotypes of Sexual and Gender Minorities.</u></a> _Computing Research Repository_, arXiv:2501.05926. Under review.
 
 Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732045"><u>Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 710–745, Athens, Greece. Association for Computing Machinery.
+
+Anaelia Ovalle, Krunoslav Lehman Pavasovic, Louis Martin, Luke Zettlemoyer, Eric Michael Smith, Kai-Wei Chang, Adina Williams, and Levent Sagun. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732196"><u>The Root Shapes the Fruit: On the Persistence of Gender-Exclusive Harms in Aligned Language Models.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 3094–3105, Athens, Greece. Association for Computing Machinery.
 
 ## Media Analysis using NLP 
 Amanda Hicks, Michael Rutherford, Christiane Fellbaum, and Jiang Bian. 2016. <a href="https://aclanthology.org/2016.gwc-1.19"><u>An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey.</u></a> In _Proceedings of the 8th Global WordNet Conference (GWC)_, pages 123–130, Bucharest, Romania. Global Wordnet Association.
@@ -230,13 +242,19 @@ Rebecca Dorn, Lee Kezar, Fred Morstatter, and Kristina Lerman. 2024. <a href="ht
 
 Michael Wiegand and Josef Ruppenhofer. 2024. <a href="https://aclanthology.org/2024.emnlp-main.132/"><u>Oddballs and Misfits: Detecting Implicit Abuse in Which Identity Groups are Depicted as Deviating from the Norm.</u></a> In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, pages 2200–2218, Miami, FL, USA. Association for Computational Linguistics.
 
-Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 2024. <a href="https://aclanthology.org/2024.clicit-1.40/"><u>ReCLAIM Project: Exploring Italian Slurs Reappropriation with Large Language Models.</u></a> In _Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)_, pages 335–342, Pisa, Italy. CEUR Workshop Proceedings.
+Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.11/"><u>”Is Hate Lost in Translation?”: Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146–152, Canberra, Australia. Association for Computational Linguistics.
+
+Lia Draetta, Chiara Ferrando, Marco Cuccarini, Liam James, and Viviana Patti. 2024. <a href="https://aclanthology.org/2024.clicit-1.40/"><u>ReCLAIM Project: Exploring Italian Slurs Reappropriation with Large Language Models.</u></a> In _Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)_, pages 335–342, Pisa, Italy. CEUR-WS.org.
 
 Juan Manuel Pérez, Paula Miguel, and Viviana Cotik. 2025. <a href="https://aclanthology.org/2025.findings-naacl.400/"><u>Exploring Large Language Models for Hate Speech Detection in Rioplatense Spanish.</u></a> In _Findings of the Association for Computational Linguistics: NAACL 2025_, pages 7174–7187, Albuquerque, NM, USA. Association for Computational Linguistics.
 
 Quoc-Toan Nguyen, Josh Nguyen, Tuan Pham, and William John Teahan. 2025. <a href="https://aclanthology.org/2025.queerinai-main.4/"><u>Leveraging Large Language Models in Detecting Anti-LGBTQIA+ User-generated Texts.</u></a> In _Proceedings of the Queer in AI Workshop at NAACL 2025_, pages 26–34, Albuquerque, NM, USA (Hybrid). Association for Computational Linguistics.
 
 Marcos Barbosa, Carlos Arcila, and Patricia Sánchez-Holgado. 2025. <a href="https://revistas.uned.es/index.php/empiria/article/view/45201"><u>LGTBfobia en redes sociales: Revisión sistemática de la detección y clasificación de discurso de odio a gran escala.</u></a> _EMPIRIA. Revista de Metodología de Ciencias Sociales_, 64:51–79.
+
+Francesca Lameiro, Lavinia Dunagan, Dallas Card, Eric Gilbert, and Oliver Haimson. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732095#fn3"><u>TIDEs: A Transgender and Nonbinary Community-Labeled Dataset and Model for Transphobia Identification in Digital Environments.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 1411–1423, Athens, Greece. Association for Computing Machinery.
+
+Anna Talas and Alice Hutchings. 2025. <a href="https://aclanthology.org/2025.woah-1.12/"><u>Beyond the Binary: Analysing Transphobic Hate and Harassment Online.</u></a> In _Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)_, pages 136–152, Vienna, Austria. Association for Computational Linguistics.
 
 Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI 2025](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HODI23](#hodi23)
 
@@ -260,6 +278,8 @@ Ian Stewart and Rada Mihalcea. 2024. <a href="https://aclanthology.org/2024.gebn
 Kevin Robinson, Sneha Kudugunta, Romina Stella, Sunipa Dev, and Jasmijn Bastings. 2024. <a href="https://aclanthology.org/2024.emnlp-main.238/"><u>MiTTenS: A Dataset for Evaluating Gender Mistranslation.</u></a> In _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, pages 4115–4124, Miami, FL, USA. Association for Computational Linguistics.
 
 Steinunn Rut Friðriksdóttir. 2024. <a href="https://aclanthology.org/2024.wmt-1.26/"><u>The GenderQueer Test Suite.</u></a> In _Proceedings of the Ninth Conference on Machine Translation_, pages 327–340, Miami, FL, USA. Association for Computational Linguistics.
+
+Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.11/"><u>”Is Hate Lost in Translation?”: Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146–152, Canberra, Australia. Association for Computational Linguistics.
 
 Fanny Jourdan, Yannick Chevalier, and Cécile Favre. 2025. <a href="https://dl.acm.org/doi/10.1145/3715275.3732013"><u>FairTranslate: an English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity.</u></a> In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_, pages 150–166, Athens, Greece. Association for Computing Machinery.
 
