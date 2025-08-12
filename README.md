@@ -39,7 +39,7 @@ Vagrant Gautam, Julius Steuer, Eileen Bingert, Ray Johns, Anne Lauscher, and Die
 
 Vagrant Gautam, Eileen Bingert, Dawei Zhu, Anne Lauscher, and Dietrich Klakow. 2024. <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00719/125951/Robust-Pronoun-Fidelity-with-English-LLMs-Are-they"><u>Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?.</u></a> _Transactions of the Association for Computational Linguistics_, 12:1755–1779.
 
-van Boven, G., Du, Y. and Nguyen, D. 2024. <a href="https://facctconference.org/static/papers24/facct24-164.pdf"><u>Transforming Dutch: Debiasing Dutch Coreference Resolution Systems for Non-binary Pronouns.</u></a>  _In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency_ (pp. 2470-2483).
+Goya van Boven, Yupei Du, and Dong Nguyen. 2024. <a href="https://facctconference.org/static/papers24/facct24-164.pdf"><u>Transforming Dutch: Debiasing Dutch Coreference Resolution Systems for Non-binary Pronouns.</u></a>  _In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency_ (pp. 2470-2483).
 
 ## Data Collection
 Amanda Hicks, Michael Rutherford, Christiane Fellbaum, and Jiang Bian. 2016. <a href="https://aclanthology.org/2016.gwc-1.19"><u>An analysis of wordnet’s coverage of gender identity using twitter and the national transgender discrimination survey.</u></a> In _Proceedings of the 8th Global WordNet Conference (GWC)_, pages 123–130, Bucharest, Romania. Global Wordnet Association.
