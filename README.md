@@ -258,7 +258,7 @@ Francesca Lameiro, Lavinia Dunagan, Dallas Card, Eric Gilbert, and Oliver Haimso
 
 Anna Talas and Alice Hutchings. 2025. <a href="https://aclanthology.org/2025.woah-1.12/"><u>Beyond the Binary: Analysing Transphobic Hate and Harassment Online.</u></a> In _Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)_, pages 136–152, Vienna, Austria. Association for Computational Linguistics.
 
-Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI25](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [25HOMO-LAT](#homolat25), [HODI23](#hodi23), [MultiPRIDE26](#multipride26)
+Shared tasks papers: [LTEDI22](#ltedi22), [LTEDI23](#ltedi23), [LTEDI24](#ltedi24), [LTEDI25](#ltedi25), [HOMO-MEX23](#homomex23), [HOMO-MEX24](#homomex24), [HOPE23](#hope23), [HOPE24](#hope24), [HOMO-LAT25](#homolat25), [HODI23](#hodi23), [MultiPRIDE26](#multipride26)
 
 ## Translation
 Fai Leui Chan, Duke Nguyen, and Aditya Joshi. 2024. <a href="https://aclanthology.org/2024.alta-1.16"><u>"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection.</u></a> In _Proceedings of The 22nd Annual Workshop of the Australasian Language Technology Association_, pages 146-152, Canberra, Australia. Association for Computational Linguistics.
